@@ -2,11 +2,6 @@
 Interact with the openai API via the command line.
 """
 
-# TODO
-# Github repo (private)
-# Figure out how to deal with pipes.
-
-
 import os
 import json
 import argparse
