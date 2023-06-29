@@ -229,14 +229,20 @@ def handle_input(prompt):
 
         if user_input.lower() == r'\help':
             print("Available commands:")
-            print("\\save - Save the chat history")
-            print("\\load - Load a saved chat history")
-            print("\\clear - Clear the console")
-            print("\\history - Print the chat history")
-            print("\\multiline - Enter multiline input")
-            print("\\docstring - Write a docstring")
-            print("\\rm - Remove the most recent user input")
+            print("\\load       - Load a saved chat history")
+            print("\\save       - Save the chat history")
+            print("\\clear      - Clear the console")
+            print("\\history    - Print the chat history")
+            print("\\multiline  - Enter multiline input")
+            print("\\docstring  - Write a docstring")
+            print("\\rm         - Remove the most recent prompt & output")
             print("\\clear_name - Clear the chat history name")
+            print()
+            print("It is possible to pass the first argument like this:")
+            print("  $ gpt 'Say hello!'")
+            print()
+            print("or even pipe output of other commands, like this:")
+            print("  $ git diff | gpt 'Write a commit message based on this diff.' ")
             return
 
         if user_input.lower() == r"\save":
