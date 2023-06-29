@@ -19,5 +19,5 @@ python -m pip install -r requirements.txt
 - Provide an alias to the python script execution, for convenience. For example:
 
 ```
-echo 'alias gpt="/home/john_vm/miniconda3/envs/opnai/bin/python /home/john_vm/openai/chatgpt.py"'
+echo 'alias gpt="/home/john_vm/miniconda3/envs/opnai/bin/python /home/john_vm/openai/chatgpt.py" >> ~/.bash_aliases'
 ```
