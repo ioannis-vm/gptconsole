@@ -7,7 +7,7 @@ Interact with OpenAI's GPT via the command line.
 
 ```
 conda create --name opnai python=3.11 -y
-python -m pip install openai
+python -m pip install -r requirements.txt
 ```
 
 - Create an API key and store it as `api_key` right next to `chat_gpt.py`.
