@@ -1,23 +1,46 @@
 # gpt_term
 Interact with OpenAI's GPT via the command line.
 
-## Installation instructions
+## Installation
 
-- Instantiate an environment and install dependencies.
-
-```
-conda create --name opnai python=3.11 -y
-python -m pip install -r requirements.txt
-```
-
-- Create an API key and store it as `api_key` right next to `chat_gpt.py`.
-
-- Modify the `BASE_PATH` variable in `chat_gpt.py` to point to the directory where it is stored.
-
-- Create a `saved` directory in which saved chats will be placed.
-
-- Provide an alias to the python script execution, for convenience. For example:
+- Using a dedicated conda environment is recommended.
 
 ```
-echo 'alias gpt="/home/john_vm/miniconda3/envs/opnai/bin/python /home/john_vm/openai/chatgpt.py" >> ~/.bash_aliases'
+conda create --name gptconsole-pypi python=3.11 -y
+python -m pip install gptconsole
+```
+
+- Create a `.gptconsolerc` file in your home directory with the following contents:
+
+```
+{
+    "base_path": "/absolute/path/to/directory/to/store/stuff",
+    "editor_command": "youreditor -flags -flags",
+    "api_key": "your OpenAI API key",
+    "temporary_dir": "/absolute/path/to/a/directory/to/store/temporary/files"
+}
+
+```
+
+Example:
+
+```
+{
+    "base_path": "/home/john_vm/gptconsole/",
+    "editor_command": "emacs -q",
+    "api_key": "sssh!",
+    "temporary_dir": "/tmp/"
+}
+
+```
+
+## Usage
+
+```
+
+gptconsole "Say Hello, World!"
+git diff | "Write me a concise commit message."
+gptconsole
+> \help
+
 ```
