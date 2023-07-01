@@ -32,16 +32,24 @@ Example:
     "api_key": "sssh!",
     "temporary_dir": "/tmp/"
 }
+```
+Instructions on how to get an OpenAI API key can be found [here](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key).
 
+### Install in development mode
+
+```
+conda create --name gptconsole-dev python=3.11 -y
+conda activate gptconsole-dev
+git clone https://github.com/ioannis-vm/gptconsole
+cd gptconsole
+python -m pip install -e .
 ```
 
 ## Usage
 
 ```
-
 gpt "Say Hello, World!"
 git diff | gpt "Write me a concise commit message."
 gpt <Enter>
 > \help
-
 ```
