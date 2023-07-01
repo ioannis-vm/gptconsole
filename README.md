@@ -39,9 +39,9 @@ Example:
 
 ```
 
-gptconsole "Say Hello, World!"
-git diff | "Write me a concise commit message."
-gptconsole
+gpt "Say Hello, World!"
+git diff | gpt "Write me a concise commit message."
+gpt <Enter>
 > \help
 
 ```
