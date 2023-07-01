@@ -7,6 +7,7 @@ Interact with OpenAI's GPT via the command line.
 
 ```
 conda create --name gptconsole-pypi python=3.11 -y
+conda activate gptconsole-pypi
 python -m pip install gptconsole
 ```
 
