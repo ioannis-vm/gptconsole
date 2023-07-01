@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='gptconsole',
-    version='0.8',
+    version='0.11',
     py_modules=['gptconsole'],
     entry_points={
         'console_scripts': [

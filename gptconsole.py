@@ -275,6 +275,9 @@ def print_response(text):
         print(text)
 
 
-if __name__ == '__main__':
+def main():
     cli = CommandLineInterface()
     cli.run(sys.argv[1:])
+    
+if __name__ == '__main__':
+    main()
