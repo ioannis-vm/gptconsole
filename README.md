@@ -1,4 +1,4 @@
-# gpt_term
+# gptconsole
 Interact with OpenAI's GPT via the command line.
 
 ## Installation
