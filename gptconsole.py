@@ -1,4 +1,5 @@
 import os
+import readline
 import json
 import datetime
 import argparse
@@ -63,9 +64,14 @@ class OpenAIInterface:
             self.history.add_message('user', query)
             response = openai.ChatCompletion.create(
                 model=self.model,
-                messages=[{'role': 'system', 'content': 'You are a helpful assistant.'}]
+                messages=[{'role': 'system', 'content': 'Your goal is to respond to prompts. You value clarity and factual correctness. If a question lacks context, you make sure to ask all necessary follow-up questions to get the information needed for a complete and precise answer, without justifying why you asked them. If you do not know the answer, you acknowlede that. You never, ever, make things up.'}]
                 + self.history.contents,
                 )
+            # response = openai.ChatCompletion.create(
+            #     model=self.model,
+            #     messages=[{'role': 'system', 'content': 'You are a helpful assistant.'}]
+            #     + self.history.contents,
+            #     )
             self.history.add_message('assistant', response.choices[0].message.content)
             return response.choices[0].message.content
         except(openai.error.InvalidRequestError) as err:
