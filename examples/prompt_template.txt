@@ -1,0 +1,5 @@
+Consider the following abstract of a research paper.
+```
+======
+```
+The primary objective of the research was to investigate the effect of the vertical component of the ground motion on nonstructural components. [0-10]:

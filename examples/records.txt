@@ -1,0 +1,920 @@
+<RECORD 1>
+
+Accession number:20230813623535
+Title:Seismic damage evaluation of unanchored nonstructural components under combined effects of horizontal and vertical near-fault ground motions
+Authors:Wang, Jianze (1, 2); Chen, Weiwei (1); Dai, Kaoshan (1); Li, Tao (1); Tesfamariam, Solomon (3); Lu, Yang (1) 
+Author affiliation:(1) Department of Civil Engineering and MOE Key Laboratory of Deep Underground Science, Sichuan University, Chengdu, China; (2) State Key Lab of Subtropical Building Science, South China University of Technology, Guangzhou, China; (3) School of Engineering, University of British Columbia, Kelowna, Canada 
+Corresponding authors:Chen, Weiwei(3450548304@qq.com); Li, Tao(litao52@scu.edu.cn)
+Source title:Earthquake Engineering and Structural Dynamics
+Abbreviated source title:Earthqua. Eng. Struct. Dyn.
+Volume:52
+Issue:6
+Issue date:May 2023
+Publication year:2023
+Pages:1823-1843
+Language:English
+ISSN:00988847
+E-ISSN:10969845
+CODEN:IJEEBG
+Document type:Journal article (JA)
+Publisher:John Wiley and Sons Ltd
+Abstract:<div data-language="eng" data-ev-field="abstract">With consideration of seismic resilience, damage of nonstructural components (NSCs) attracts significant attentions. Most previous studies focused on dynamic behaviors of NSCs under horizontal excitations. Near-fault earthquakes, however, have strong vertical ground motion components, but few studies assessed their influence on seismic damage of NSCs. In this study, the seismic responses of unanchored NSCs under near-fault earthquakes with strong vertical components are investigated. Response history analyses of steel moment frames with different heights under near-fault earthquakes are performed and the derived floor acceleration responses are taken as the inputs of unanchored NSCs. The sliding and rocking responses of NSCs under horizontal and vertical excitations are used to quantify the influence of near-fault earthquake characteristics. The results highlighted that bidirectional excitations (horizontal & vertical) would elevate the uncertainty in the sliding demands of NSCs and more likely to induce the occurrence of overturning failures for slender NSCs. The relation between rocking demands of NSCs and common intensity measures like PFA would be weakened due to the presence of vertical excitations.<br/></div> &copy; 2023 John Wiley & Sons Ltd.
+Number of references:38
+Main heading:Damage detection
+Controlled terms:Earthquake effects - Faulting
+Uncontrolled terms:Combined effect - Near-fault earthquake - Non-structural components - Overturning of nonstructural component - Seismic damage evaluation - Sliding of nonstructural component - Vertical excitation - Vertical ground motion
+Classification code:484.1  Earthquake Measurements and Analysis
+DOI:10.1002/eqe.3846
+Funding details:  Number: 2022ZB23, Acronym: -, Sponsor: -;Number: 2023JDGD0042, Acronym: -, Sponsor: International S and T Cooperation Program of Sichuan Province;Number: 52278512, Acronym: NSFC, Sponsor: National Natural Science Foundation of China;Number: 2021M700096, Acronym: -, Sponsor: China Postdoctoral Science Foundation;Number: 2022YFE0113600, Acronym: NKRDPC, Sponsor: National Key Research and Development Program of China;Number: -, Acronym: -, Sponsor: Fundamental Research Funds for the Central Universities;Number: 2022NSFSC0432,2022NSFSC0988, Acronym: -, Sponsor: Natural Science Foundation of Sichuan Province;
+Funding text:The authors would like to acknowledge the support from National Key Research and Development Program of China (2022YFE0113600), National Natural Science Foundation of China (52278512), International Collaboration Program of Sichuan Province (2023JDGD0042), and Fundamental Research Funds for Central Universities. The first author would like to acknowledge the support from China Postdoctoral Science Foundation (2021M700096), Natural Science Foundation of Sichuan Province (2022NSFSC0988 & 2022NSFSC0432), and Open Project supported by State Key Lab of Subtropical Building Science in South China University of Technology (Project No. 2022ZB23). We authors would sincerely appreciate the anonymous reviewers who made great efforts to improve this study.
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 2>
+
+Accession number:20202208768106
+Title:Implications of the vertical component of ground motion on building response
+Authors:Tzortzis, A. (1); Paul, N. (1); Almufti, I. (1) 
+Author affiliation:(1) Arup, San Francisco; CA; 94105, United States 
+Source title:11th National Conference on Earthquake Engineering 2018, NCEE 2018: Integrating Science, Engineering, and Policy
+Abbreviated source title:Natl. Conf. Earthq. Eng., NCEE : Integr. Sci., Eng., Policy
+Volume:7
+Part number:7 of 12
+Issue title:11th National Conference on Earthquake Engineering 2018, NCEE 2018: Integrating Science, Engineering, and Policy
+Issue date:2018
+Publication year:2018
+Pages:4207-4219
+Language:English
+ISBN-13:9781510873254
+Document type:Conference article (CA)
+Conference name:11th National Conference on Earthquake Engineering 2018: Integrating Science, Engineering, and Policy, NCEE 2018
+Conference date:June 25, 2018  -  June 29, 2018
+Conference location:Los Angeles, CA, United states
+Conference code:159884
+Publisher:Earthquake Engineering Research Institute
+Abstract:Recent earthquakes have demonstrated that the vertical component of ground motion can be damaging to building structural and nonstructural components. Recorded vertical accelerations from these recent earthquakes significantly exceed the vertical spectral demands used for seismic design prescribed in building codes in the United States. The focus of this paper is to determine, through non-linear time history analyses, the expected behavior of a code-compliant 3-story steel moment frame structure under vertical accelerations consistent with the design level earthquake intensity. This study differs from prior research because all components, including gravity elements, are explicitly modeled to capture potential non-linear behavior. Prior studies compared elastic demand-capacity ratios for some structural elements, which may not provide a meaningful measure of damage due to the high frequency nature of vertical response. Insights from the analysis are used to recommend future research needs.<br/> &copy; 11th National Conference on Earthquake Engineering 2018, NCEE 2018: Integrating Science, Engineering, and Policy. All rights reserved.
+Number of references:15
+Main heading:Seismic design
+Controlled terms:Engineering geology - Earthquake effects - Building codes
+Uncontrolled terms:Building structural - Earthquake intensity - Non-structural components - Nonlinear behavior - Steel moment frames - Structural elements - Vertical accelerations - Vertical component
+Classification code:402  Buildings and Towers - 408  Structural Design - 484.3  Earthquake Resistance - 902.2  Codes and Standards - 902.3  Legal Aspects
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 3>
+
+Accession number:20211510203248
+Title:Advancements in the Seismic Design of Cold-Formed Steel Structures through the Investigation of Diaphragm Behaviour and the Influence of Non-structural Components
+Authors:Nikolaidou, Violetta (1) 
+Author affiliation:(1) McGill University (Canada) 
+Source title:ProQuest Dissertations and Theses Global
+Issue date:2018
+Publication year:2018
+Paper number:28248546
+Language:English
+ISBN-13:9798582591139
+Document type:Dissertation (DS)
+Link to ProQuest Dissertations:http://www.engineeringvillage.com/proquest/dissertations.url?docId=cpx_Ma74c417bdf9d9ca5M7d8d1017816328&referer=Download
+Publisher:ProQuest LLC
+Abstract:<div data-language="eng" data-ev-field="abstract">Recent shake table experimental work revealed that cold-formed steel (CFS) buildings exhibit excellent structural performance under high earthquake excitations; however, the reasons behind their considerable structural capacity are still unclear. This is due to the fact that the complex nonlinear response of CFS members and their interactions in a subsystem and, subsequently, in a system level are not well defined.Currently, in the AISI S400 North American Standard for Seismic Design of Cold-Formed Steel Structural Systems the seismic design of CFS framed structures is based on the lateral response of CFS framed shear walls and special moment frames, as the primary lateral load resisting elements. Experimental studies on the contribution of non-structural elements, such as gypsum sheathing, to the lateral response of the shear wall have revealed their potential. As such, the addition of non-structural gypsum to the shear wall component is included in the seismic design in Canada but with limitations about their applicability. In the USA, this lateral force resisting system is not specifically recognised but the benefit of gypsum is considered inherent in the system&rsquo;s over-strength factor. There is still great uncertainty regarding the behaviour of nonstructural elements and the capacity forces they may impose on the structure. Further, the importance of the diaphragm component as part of the lateral load resisting system distributing the lateral forces to the vertical lateral load resisting elements is evident. Nonetheless, at present the AISI S400 Standard includes limited design guidelines for CFS framed diaphragms for use in the USA, while no information is available for diaphragm design in Canada. This is to be expected given the minimal pre-existing research work available on CFS framed diaphragms.CFS joist framing sheathed with structural OSB panels is a typical diaphragm configuration found in the floors and roofs of CFS buildings; as such, an experimental program of OSB sheathed / CFS framed diaphragm configurations was launched at McGill University and is presented in this dissertation. The aim was to provide insight on the in-plane lateral response of these subsystems when subjected to monotonic and reversed cyclic loading. Experimental results underlined the dependency of the diaphragm&rsquo;s lateral response on screw spacing and size. The beneficial effect of panel edge blocking was also demonstrated. Moreover, the need to update the design guidelines available in the AISI S400 Standard was highlighted by means of a comparison of design and experimental shear strength and stiffness values.In order to explore the effect of non-structural components in a system and subsystem level, diaphragm configurations with non-structural gypsum ceiling and gypcrete flooring were tested as part of the diaphragm experimental program. The experimental results were incorporated in the floor and roof of a case-study two-storey CFS building, featuring diaphragms, shear walls and gravity walls with gypsum sheathing throughout the structure. A simplified 3D phenomenological numerical modeling approach was followed and verified using experimental data. Response history dynamic analyses results revealed the addition of gypsum sheathing and gravity walls throughout the wall-line as substantially increasing the lateral resistance of the structure. Although, the non-structural elements on the diaphragm increased its shear strength and stiffness, they had a minimal effect on the seismic response of the CFS building.Further investigation of the influence of the diaphragm's flexibility on a CFS building was realized by means of a parametric numerical study, where three diaphragm stiffness conditions were examined; flexible, semi-rigid and rigid. Non-structural components were kept throughout the wall-line of the building as a more realistic approach. The two-storey CFS building was subjected to a design basis earthquake in the USA in the two directions and to a suite of 20 ground motions representing seismic hazard in Montreal and Vancouver, Canada, in the flexible side of the building. Modal analysis results showed that the dynamic properties of the building are directly influenced by the diaphragm flexibility. Response history analyses results revealed reduction of the wall-line storey drifts with increase of the diaphragm flexibility; the level of that reduction is dependent on the input ground motion. The rigid diaphragm assumption for the building, used in design, was able to capture adequately the shear wall forces; however, it overestimated the wall-line storey drift ratios of the CFS building. ProQuest Subject Headings: Civil engineering, Materials science.<br/></div>  &copy; Citation reproduced with permission of ProQuest LLC.
+Page count:306
+Main heading:Gypsum
+Controlled terms:Shear walls - Steel construction - Seismology - Seismic design - Diaphragms - Loads (forces) - Studs (structural members)
+Uncontrolled terms:Cold-formed steel structures - Lateral force resisting system - Lateral load resisting systems - Non-structural components - Non-structural elements - Numerical modeling approach - Response history analysis - Reversed cyclic loading
+Classification code:402  Buildings and Towers - 405.2  Construction Methods - 408  Structural Design - 408.2  Structural Members and Shapes - 482.2  Minerals - 484.1  Earthquake Measurements and Analysis - 484.3  Earthquake Resistance - 545.3  Steel - 601.2  Machine Components
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 4>
+
+Accession number:20112114000066
+Title:Preliminary analysis of a soft-storey mechanism after the 2009 L'Aquila earthquake    (Open Access)
+Authors:Verderame, Gerardo M. (1); De Luca, Flavia (1); Ricci, Paolo (1); Manfredi, Gaetano (1) 
+Author affiliation:(1) Department of Structural Engineering, DIST, University of Naples Federico II, Via Claudio, 21, 80125 Naples, Italy 
+Corresponding author:De Luca, F.(flavia.deluca@unina.it)
+Source title:Earthquake Engineering and Structural Dynamics
+Abbreviated source title:Earthqua. Eng. Struct. Dyn.
+Volume:40
+Issue:8
+Issue date:10 July 2011
+Publication year:2011
+Pages:925-944
+Language:English
+ISSN:00988847
+E-ISSN:10969845
+CODEN:IJEEBG
+Document type:Journal article (JA)
+Publisher:John Wiley and Sons Ltd
+Abstract:Observation of damage caused by the recent Abruzzo earthquake on April 6th 2009 showed how local interaction between infills and RC structures can lead to soft-storey mechanisms and brittle collapses. Results of the present case study are based on observed damage caused by the earthquake in the zone of Pettino. Analytical model based on simulated design procedure was built up and time history analyses were employed to verify the causes of the structural collapse, as highlighted by observed damage. This failure mechanism was investigated taking into consideration all components of the ground motion. Nonlinear behavior of brick masonry infills was taken into account and two parametric hypotheses for infill mechanical properties were considered, given the uncertainties that typically characterize these nonstructural elements. Nonlinear modeling of infills was made by a three-strut macro-model aimed at considering both local and global interaction between RC frame and infills. Seismic input was characterized by the real signal registered during the mainshock near the case-study structure. Different shear capacity models were considered in the assessment. Analytical results seem to confirm with good approximation the likely collapse scenario that damage observation highlighted; the lack of proper detailing in the columns made the local interaction between infills and RC columns and the strong vertical component of the ground motion to be the main causes of the brittle failure. &copy; 2010 John Wiley & Sons, Ltd.<br/>
+Number of references:35
+Main heading:Failure (mechanical)
+Controlled terms:Earthquake effects
+Uncontrolled terms:Brittle failures - Infill - Interaction - L'aquila earthquakes - RC structure - Soft storey
+Classification code:484  Seismology - 511.1  Oil Field Production Operations
+DOI:10.1002/eqe.1069
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+Open Access type(s): All Open Access, Green
+
+<RECORD 5>
+
+Accession number:20214611157571
+Title:Effects of vertical ground motions on the dynamic response of URM structures: Comparative shake-table tests    (Open Access)
+Authors:Kallioras, Stylianos (1, 2); Graziotti, Francesco (1, 2); Penna, Andrea (1, 2); Magenes, Guido (1, 2) 
+Author affiliation:(1) Department of Civil Engineering and Architecture (DICAr), University of Pavia, Pavia, Italy; (2) European Centre for Training and Research in Earthquake Engineering (EUCENTRE), Pavia, Italy 
+Corresponding author:Graziotti, Francesco(francesco.graziotti@unipv.it)
+Source title:Earthquake Engineering and Structural Dynamics
+Abbreviated source title:Earthqua. Eng. Struct. Dyn.
+Volume:51
+Issue:2
+Issue date:February 2022
+Publication year:2022
+Pages:347-368
+Language:English
+ISSN:00988847
+E-ISSN:10969845
+CODEN:IJEEBG
+Document type:Journal article (JA)
+Publisher:John Wiley and Sons Ltd
+Abstract:<div data-language="eng" data-ev-field="abstract">This paper discusses the results of an experimental study aimed at evaluating the influence of the vertical ground motion component on the seismic performance of unreinforced brick-masonry buildings. The research was motivated by post-earthquake observations of significant structural damage in the vicinity of the fault, where horizontal and vertical ground motions are often strong and synchronized. Vertical accelerations can fluctuate gravity loads, which control the in-plane lateral load capacity of masonry piers and affect the out-of-plane overturning stability of thin walls. Such phenomena seem not to be sufficiently explained in existing literature, while experimental evidence is undoubtedly missing. Here, the damage potential of vertical accelerations was investigated through a series of multidirectional shake-table tests on full-scale structures under simulated near-source ground motions of increasing intensity. The experiments comprised three nominally identical building specimens subjected to the principal horizontal component alone, the horizontal component combined with the vertical one, and the full three-component ground motion. The buildings included structural/nonstructural elements (e.g., gables, chimneys, and parapets) sensitive to gravity load variations due to their low axial loads. Two different sets of three-component earthquake records were employed to assess the effects of both tectonic and induced seismicity scenarios. Overall, the vertical earthquake motion did not cause appreciable differences in the behavior of the buildings. Any influence on the strength and peak response of structural/nonstructural walls was marginal and non-systematic. Data and observations from these experiments add substantially to our understanding of the vertical acceleration effects on masonry structures.<br/></div> &copy; 2021 The Authors. Earthquake Engineering & Structural Dynamics published by John Wiley & Sons Ltd.
+Number of references:54
+Main heading:Masonry materials
+Controlled terms:Structural analysis - Structural dynamics - Earthquakes - Masonry construction - Walls (structural partitions)
+Uncontrolled terms:Gravity loads - Multidirectional seismic input - Near fault ground motion - Non-structural - Rocking response - Seismic input - Shake-table tests - Structural/nonstructural URM damage - Vertical accelerations - Vertical ground motion
+Classification code:405.2  Construction Methods - 408  Structural Design - 408.1  Structural Design, General - 408.2  Structural Members and Shapes - 414  Masonry Materials - 484  Seismology
+DOI:10.1002/eqe.3569
+Funding details:  Number: -, Acronym: DPC, Sponsor: Dipartimento della Protezione Civile, Presidenza del Consiglio dei Ministri;
+Funding text:The shake-table experiments discussed in this paper were part of the EUCENTRE project &lsquo;Study of the vulnerability of masonry buildings in Groningen&rsquo; within the research framework program on hazard and risk of induced seismicity in the Groningen province of the Netherlands, sponsored by the Nederlandse Aardolie Maatschappij BV (NAM). The valuable advice of J. Uilenreef was essential to the project and is thankfully acknowledged. The authors would like to thank H. Crowley, C.G. Lai, A.G. &Ouml;zcebe, and R. Pinho for their insight and contributions related to selecting the seismic input motions for the shake-table experiments. The contribution of L. Grottoli, F. Dacarro, V. Fort, M.P. Scovenna, and the technical staff of EUCENTRE, who performed the dynamic tests, was critical to accomplishing the experimental activities and is gratefully acknowledged. The authors are thankful to the technical staff of the Department of Civil Engineering and Architecture of the University of Pavia, who performed part of the material characterization tests. Thanks also go to G. Guerrini, M. Miglietta, S. Sharma and U. Tomassetti for the practical support. Part of the data post-processing work was financially supported by the ReLUIS-DPC project 2019&ndash;2021 &lsquo;Contributions to the improvement of standards for existing masonry structures&rsquo; (Working group 10) funded by the Italian Department of Civil Protection.The shake&#8208;table experiments discussed in this paper were part of the EUCENTRE project &lsquo;&rsquo; within the research framework program on hazard and risk of induced seismicity in the Groningen province of the Netherlands, sponsored by the Nederlandse Aardolie Maatschappij BV (NAM). The valuable advice of J. Uilenreef was essential to the project and is thankfully acknowledged. The authors would like to thank H. Crowley, C.G. Lai, A.G. &Ouml;zcebe, and R. Pinho for their insight and contributions related to selecting the seismic input motions for the shake&#8208;table experiments. The contribution of L. Grottoli, F. Dacarro, V. Fort, M.P. Scovenna, and the technical staff of EUCENTRE, who performed the dynamic tests, was critical to accomplishing the experimental activities and is gratefully acknowledged. The authors are thankful to the technical staff of the Department of Civil Engineering and Architecture of the University of Pavia, who performed part of the material characterization tests. Thanks also go to G. Guerrini, M. Miglietta, S. Sharma and U. Tomassetti for the practical support. Part of the data post&#8208;processing work was financially supported by the ReLUIS&#8208;DPC project 2019&ndash;2021 &lsquo;&rsquo; (Working group 10) funded by the Italian Department of Civil Protection. Study of the vulnerability of masonry buildings in Groningen Contributions to the improvement of standards for existing masonry structures
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+Open Access type(s): All Open Access, Hybrid Gold
+
+<RECORD 6>
+
+Accession number:20224212901078
+Title:Effect of damping model and inelastic deformation on the prediction of vertical seismic acceleration demand on steel frames    (Open Access)
+Authors:Gremer, Nadia (1); Adam, Christoph (1); Furtm&uuml;ller, Thomas (1) 
+Author affiliation:(1) Unit of Applied Mechanics, University of Innsbruck, Innsbruck, Austria 
+Corresponding author:Adam, Christoph(christoph.adam@uibk.ac.at)
+Source title:Bulletin of Earthquake Engineering
+Abbreviated source title:Bull. Earthquake Engin.
+Volume:21
+Issue:1
+Issue date:January 2023
+Publication year:2023
+Pages:207-235
+Language:English
+ISSN:1570761X
+E-ISSN:15731456
+Document type:Journal article (JA)
+Publisher:Springer Science and Business Media B.V.
+Abstract:<div data-language="eng" data-ev-field="abstract">This study addresses the modeling of different energy dissipation mechanisms for numerical prediction of the vertical acceleration demand in regular moment-resisting steel frame structures. One of the issues discussed is the consideration of viscous damping in the structural model. It is shown that well-established Rayleigh-damping may highly overestimate the damping of the vertical modes, resulting in much too low vertical acceleration response predictions. A study with different damping models provides an appropriate damping modeling strategy that leads to reasonable predictions of both horizontal and vertical frame acceleration demands. Another open question is the effect of inelastic material behavior on the vertical acceleration demand on the considered regular structures. The results of a shell model of a frame structure exposed to high intensity ground motion excitation demonstrate that inelastic material behavior has virtually no impact on the vertical acceleration demand, while structural inelasticity leaves the horizontal acceleration response significantly smaller compared to the elastic demand. This leads to the conclusion that common frame models that capture the inelastic horizontal response but behave elastic in the vertical direction are suitable for the computation of both the horizontal and vertical acceleration demand.<br/></div> &copy; 2022, The Author(s).
+Number of references:41
+Main heading:Forecasting
+Controlled terms:Acceleration - Damping - Energy dissipation - Seismology - Steel construction - Structural frames
+Uncontrolled terms:Acceleration response - Acceleration sensitive - Acceleration sensitive nonstructural component - Damping modelings - Inelastic response - Modal damping - Non-structural components - Rayleigh damping - Seismic excitations - Vertical accelerations
+Classification code:405.2  Construction Methods - 408.2  Structural Members and Shapes - 484.1  Earthquake Measurements and Analysis - 525.4  Energy Losses (industrial and residential) - 545.3  Steel - 931.1  Mechanics
+DOI:10.1007/s10518-022-01530-9
+Funding text:The authors acknowledge the comments of the three anonymous reviewers that helped us substantially improve this paper.
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+Open Access type(s): All Open Access, Hybrid Gold, Green
+
+<RECORD 7>
+
+Accession number:20221611976947
+Title:Demands on acceleration-sensitive nonstructural components in special concentrically braced frame and special moment frame buildings
+Authors:Salari, Neda (1); Konstantinidis, Dimitrios (2); Mohsenzadeh, Vahid (1); Wiebe, Lydell (1) 
+Author affiliation:(1) Department of Civil Engineering, McMaster University, Hamilton; ON, Canada; (2) Department of Civil and Environmental Engineering, University of California, Berkeley; CA, United States 
+Corresponding author:Konstantinidis, Dimitrios(konstantinidis@berkeley.edu)
+Source title:Engineering Structures
+Abbreviated source title:Eng. Struct.
+Volume:260
+Issue date:June 1, 2022
+Publication year:2022
+Article number:114031
+Language:English
+ISSN:01410296
+E-ISSN:18737323
+CODEN:ENSTDF
+Document type:Journal article (JA)
+Publisher:Elsevier Ltd
+Abstract:<div data-language="eng" data-ev-field="abstract">This study investigates demands on acceleration-sensitive nonstructural components (NSCs) in code-compliant Special Concentrically Braced Frame (SCBF) and Special Moment Frame (SMF) structures. Previous studies have highlighted that the assumption of ASCE 7-16 for the ratio of Peak Floor Acceleration (PFA) to Peak Ground Acceleration (PGA) is overly conservative. In most previous studies, the results were based on generic analytical models with non-deteriorating structural behavior or recorded data from instrumented buildings subjected to ground motions that were significantly weaker than the design-level earthquakes. This study evaluates the acceleration demands on NSCs in 11 archetype buildings modeled using advanced techniques. The ground motions used elicit inelastic response in the frames at the level expected by ASCE 7-16 compliant designs. The study examines the effect of the ratio of NSC period to structural period, NSC damping ratio, and NSC vertical location on these demands. Results of this investigation are compared with the provisions of ASCE 7-16 and the recommendations of the recently completed effort by the Applied Technology Council 120 project (ATC-120), which are the basis for the seismic design requirements for nonstructural components in the forthcoming ASCE 7-22 standard. Equations for the PFA/PGA ratio and NSC amplification factor, which account for the dynamic characteristics of the buildings, are developed based on regression analysis of the generated data. Results of the analyses indicate that the formula recommended by ATC-120 for estimating PFA/PGA along the height of the structure, which includes building nonlinearity effects through a constant building ductility reduction factor, overestimates floor accelerations at the top floors but underestimates them in the lower floors of the archetypes considered. At the same time, results show that the NSC seismic design force equation recommended by ATC-120 is conservative for the SCBF archetypes, while it underestimates the NSC force demands in the SMFs.<br/></div> &copy; 2022 Elsevier Ltd
+Number of references:56
+Main heading:Seismic design
+Controlled terms:Floors - Acceleration - Architectural design - Earthquakes - Regression analysis - Seismic response - Structural frames
+Uncontrolled terms:Amplification factors - Applied technology council 120 project - ASCE 7-16 - ASCE 7-22 - Component amplification factor - Floor accelerations - Floor response spectrum - Non-structural components - Special concentrically braced frames - Special moment frames
+Classification code:402  Buildings and Towers - 408  Structural Design - 408.1  Structural Design, General - 408.2  Structural Members and Shapes - 484  Seismology - 484.2  Secondary Earthquake Effects - 484.3  Earthquake Resistance - 922.2  Mathematical Statistics
+DOI:10.1016/j.engstruct.2022.114031
+Funding details:  Number: -, Acronym: NSERC, Sponsor: Natural Sciences and Engineering Research Council of Canada;
+Funding text:Financial support for this work was provided by the Natural Sciences and Engineering Research Council of Canada .
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 8>
+
+Accession number:20200408070835
+Title:Seismic response control of a base isolated structure-nonstructural coupling system under near-fault vertical earthquakes
+Title of translation:&#31446;&#21521;&#36817;&#26029;&#23618;&#22320;&#38663;&#19979;&#38548;&#38663;&#32467;&#26500;-&#38750;&#32467;&#26500;&#31995;&#32479;&#32806;&#21512;&#25511;&#21046;&#30740;&#31350;
+Authors:Liu, Dewen (1); Zhao, Jie (1); Liu, Yang (2) 
+Author affiliation:(1) College of Civil Engineering, Southwest Forestry University, Kunming; 650000, China; (2) College of Civil Engineering, Tongji University, Shanghai; 200092, China 
+Corresponding author:Liu, Yang
+Source title:Zhendong yu Chongji/Journal of Vibration and Shock
+Abbreviated source title:J Vib Shock
+Volume:38
+Issue:22
+Issue date:November 28, 2019
+Publication year:2019
+Pages:130-136 and 177
+Language:Chinese
+ISSN:10003835
+Document type:Journal article (JA)
+Publisher:Chinese Vibration Engineering Society
+Abstract:Near-fault vertical ground motions tend to cause the amplification of seismic responses of nonstructural components in an isolated structure. To study the mechanism of dynamic response control for nonstructural components in the isolated structure under near-fault vertical ground motions, a model for the base isolated structure-nonstructural coupling system was established. The seismic response control effect of nonstructural components with the quasi zero stiffness of isolation system was analyzed by using the non-linear time history response analysis method. Based on the energy analysis method, the energy balance equation for the base isolated structure-nonstructural coupling system was established. The results show that when using the vertical quasi zero stiffness system, the seismic isolation efficiency of nonstructural components is remarkable for the base isolation system with different natural frequency. The vertical elastic recovery and damping energy of the seismic isolated structure model with quasi zero stiffness are much bigger than those of the base isolated structure with fixed nonstructural component system. It is beneficial to control near-fault vertical seismic responses of nonstructural components by setting reasonable damping ratio.<br/> &copy; 2019, Editorial Office of Journal of Vibration and Shock. All right reserved.
+Number of references:21
+Main heading:Seismic response
+Controlled terms:Stiffness - Damping
+Uncontrolled terms:Base isolated structure - Energy analysis method - Energy balance equations - Non-structural - Non-structural components - Seismic response control - Seismic-isolated structures - Vertical ground motion
+Classification code:484.2  Secondary Earthquake Effects - 931.1  Mechanics - 951  Materials Science
+DOI:10.13465/j.cnki.jvs.2019.22.018
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 9>
+
+Accession number:20201208333783
+Title:A new formulation for a code-based vertical design spectrum    (Open Access)
+Authors:Kale, &Ouml;zkan (1); Akkar, Sinan (2) 
+Author affiliation:(1) Department of Civil Engineering, TED University, Ankara, Turkey; (2) Department of Earthquake Engineering, Kandilli Observatory and Earthquake Research Institute, Bo&#287;azi&ccedil;i University, &#304;stanbul, Turkey 
+Corresponding author:Akkar, Sinan(sinan.akkar@boun.edu.tr)
+Source title:Earthquake Engineering and Structural Dynamics
+Abbreviated source title:Earthqua. Eng. Struct. Dyn.
+Volume:49
+Issue:10
+Issue date:August 1, 2020
+Publication year:2020
+Pages:963-980
+Language:English
+ISSN:00988847
+E-ISSN:10969845
+CODEN:IJEEBG
+Document type:Journal article (JA)
+Publisher:John Wiley and Sons Ltd
+Abstract:Consideration of vertical seismic design loads is important for long-span structural systems, short-period structures, and for some nonstructural components in the buildings. To this end, seismic design codes utilize alternative approaches to define vertical design spectrum at different levels of complexity: either as a fraction of horizontal design spectrum or using a separate functional form having features different than the horizontal spectrum. In all cases, a consistency between the horizontal and vertical design spectral ordinates is sought. In this paper, we consider a set of modern seismic design codes, horizontal and vertical ground-motion datasets, as well as ground-motion predictive models (GMPMs) to assess the accuracy of code-based vertical design spectrum expressions. We compute horizontal and vertical spectra for different earthquake scenarios (magnitude-distance-soil condition combinations) from the selected horizontal and vertical GMPMs for comparisons with their code-based (idealized) counterparts. Besides that, we study the vertical spectrum behavior from observed ground-motion data. Our observations suggest that the vertical design spectrum formulations by current codes do not fully explain the actual vertical spectral acceleration trends. We discuss the possible reasons behind the misrepresentation of vertical spectrum by the current code approach and introduce our own expressions to compute horizontal spectrum consistent vertical design spectrum from a comprehensive simulated dataset of correlated vertical and horizontal spectral ordinates.<br/> &copy; 2020 John Wiley & Sons, Ltd.
+Number of references:26
+Main heading:Horizontal wells
+Controlled terms:Codes (symbols) - Earthquakes - Seismic design
+Uncontrolled terms:Earthquake scenario - Non-structural components - Predictive models - Seismic design code - Spectral acceleration - Spectral ordinates - Structural systems - Vertical ground motion
+Classification code:408  Structural Design - 484  Seismology - 484.3  Earthquake Resistance - 512.1.1  Oil Fields - 723.2  Data Processing and Image Processing
+DOI:10.1002/eqe.3272
+Funding details:  Number: -, Acronym: CONICET, Sponsor: Consejo Nacional de Investigaciones Cient&iacute;ficas y T&eacute;cnicas;
+Funding text:The first versions of this paper benefitted significantly from the comments of Prof Roberto Paolucci and another anonymous reviewer. The comments of the third anonymous reviewer further improved the technical essence of this version. The authors are grateful to all intellectual and technical contributions. We thank the editor Prof Michael Fardis during the revision process. The paper is motivated by the projects entitled "" (funded by the Disaster and Emergency Management Presidency and Turkish Catastrophe Insurance Pool), "" (funded by the Scientific Research and Technical Council of Turkey), and "" (funded via the consultancy services provided to Yuksel Project International Inc by the second author). Revision of Seismic Hazard Maps in Turkey Determination of the Design Spectrum Corner Periods and Soil Amplification Factors from Probabilistic Seismic Hazard Analysis Conducted to the Selected Regions in Turkey&mdash;213M245 Preparation of Earthquake Design Codes for Transportation and Distribution Lifeline Systems in Turkey for the Ministry of Transportation and InfrastructureThe first versions of this paper benefitted significantly from the comments of Prof Roberto Paolucci and another anonymous reviewer. The comments of the third anonymous reviewer further improved the technical essence of this version. The authors are grateful to all intellectual and technical contributions. We thank the editor Prof Michael Fardis during the revision process. The paper is motivated by the projects entitled ?Revision of Seismic Hazard Maps in Turkey? (funded by the Disaster and Emergency Management Presidency and Turkish Catastrophe Insurance Pool), ?Determination of the Design Spectrum Corner Periods and Soil Amplification Factors from Probabilistic Seismic Hazard Analysis Conducted to the Selected Regions in Turkey?213M245? (funded by the Scientific Research and Technical Council of Turkey), and ?Preparation of Earthquake Design Codes for Transportation and Distribution Lifeline Systems in Turkey for the Ministry of Transportation and Infrastructure? (funded via the consultancy services provided to Yuksel Project International Inc by the second author).
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+Open Access type(s): All Open Access, Green
+
+<RECORD 10>
+
+Accession number:20231213752674
+Title:Dynamic stability of single-layer spherical reticulated shell structures under earthquake action
+Authors:Wilfried Tim Sob, Landry (1); Tagne Sylvain Marcial, Sakepa (2); Souhaibou, Abdoulhakim (3); Uddin, Md Nasir (3); Mohamed Elobaid Musa, Moneef (1); Mahamoudou, Faharidine (3) 
+Author affiliation:(1) Department of Structural Engineering, Tongji University, Shanghai 200092, PR China; (2) School of Civil Engineering, Central South University, Changsha 410075, PR China; (3) Department of Disaster Mitigation for Structure, Tongji University, Shanghai 200092, PR China 
+Corresponding author:Wilfried Tim Sob, Landry(landrytim@tongji.edu.cn)
+Source title:Materials Today: Proceedings
+Abbreviated source title:Mater. Today Proc.
+Issue date:2023
+Publication year:2023
+Language:English
+E-ISSN:22147853
+Document type:Article in Press
+Publisher:Elsevier Ltd
+Abstract:<div data-language="eng" data-ev-field="abstract">In past decade, earthquake disasters have seriously damaged nonstructural components, so it is very important to study their dynamic stability. However, the existing researches mainly focus on the dynamic stability of multistory and high-rise buildings, and there are still deficiencies in the analysis of dynamic stability of reticulated shell structures under earthquake action. This paper takes the 40 m span K8 single-layer spherical reticulated shell structure with practical engineering significance as the research object, we study its dynamic instability characteristics under earthquake action, and propose a dynamic stability judgment method. The influence of various parameters on the critical loads of emotional stability of reticulated shell structures is systematically analyzed, including the impact of horizontal seismic action, the vertical seismic activity, and the three-dimensional seismic movement, considering the influence of material elastoplasticity; the result of different seismic inputs, the effects of initial geometric imperfections; the effects of varying rise span-ratio. In this paper, to investigate the nonlinear time-history response analysis, we uses the finite-element package ABAQUS. We first analyze the rise-span ratio as the dynamic stability of 1/3 single-layer reticulated shell structure under the action of the El Centro (1940) earthquake to reveal the dynamic loss of reticulated shell structure under earthquake action stable feature. The practical method for determining the proposed dynamic stability has a clear physical meaning and a range of applications. Our findings highlight that the critical load for dynamic stability under horizontal earthquake action is significantly lower than vertical earthquake action, and the critical load is the lowest under three-dimensional earthquake action. Material elastoplasticity influences the critical loads for dynamic stability of reticulated shell structures under different ground motions. The critical load of dynamic stability of single-layer structures with a larger rise-span ratio is lower, while those with a smaller one is higher. The initial geometric defects of the structure should be considered in practical engineering applications. The reticulated shell structure with a larger rise-span ratio needs to consider the dynamic stability problem in the strong earthquake area.<br/></div> &copy; 2024 Elsevier Ltd. All rights reserved.
+Number of references:12
+Main heading:Stability
+Controlled terms:ABAQUS - Earthquakes - Elastoplasticity - Shells (structures) - Tall buildings
+Uncontrolled terms:Critical load - Dynamics stability - Earthquake action - Earthquake disaster - High rise building - Non-structural components - Reticulated shell structure - Rise span ratio - Single layer - Single-layer reticulated shells
+Classification code:402  Buildings and Towers - 408.2  Structural Members and Shapes - 484  Seismology - 723.5  Computer Applications - 921  Mathematics
+Numerical data indexing:Size 4.00E+01m
+DOI:10.1016/j.matpr.2023.03.154
+Funding text:There is no funding involved in the work.
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 11>
+
+Accession number:20224713158239
+Title:ON THE USE OF ARTIFICIAL NEURAL NETWORK TECHNIQUE FOR SEISMIC FRAGILITY ANALYSIS OF A THREE-DIMENSIONAL INDUSTRIAL FRAME
+Authors:Quinci, Gianluca (1); Phan, Nam Hoang (2); Paolacci, Fabrizio (1) 
+Author affiliation:(1) Roma Tre University, Rome, Italy; (2) The University of Danang, University of Science and Technology, Danang, Viet Nam 
+Source title:American Society of Mechanical Engineers, Pressure Vessels and Piping Division (Publication) PVP
+Abbreviated source title:ASME Pressure Vessels Piping Div. Publ. PVP
+Volume:5
+Volume title:Operations, Applications, and Components; Seismic Engineering; ASME Nondestructive Evaluation, Diagnosis and Prognosis (NDPD) Division
+Part number:6 of 6
+Issue title:Proceedings of ASME 2022 Pressure Vessels and Piping Conference, PVP 2022
+Issue date:2022
+Publication year:2022
+Report number:PVP2022-83874
+Article number:v005t08a013
+Language:English
+ISSN:0277027X
+CODEN:APVPDM
+ISBN-13:9780791886199
+Document type:Conference article (CA)
+Conference name:ASME 2022 Pressure Vessels and Piping Conference, PVP 2022
+Conference date:July 17, 2022  -  July 22, 2022
+Conference location:Las Vegas, NV, United states
+Conference code:184110
+Sponsor:Pressure Vessels and Piping Division
+Publisher:American Society of Mechanical Engineers (ASME)
+Abstract:<div data-language="eng" data-ev-field="abstract">Fragility function that defines the probability of exceedance of a damage state given a ground motion intensity (IM) is an essential ingredient of modern approaches to seismic engineering as the performance-based earthquake engineering methodology. Epistemic as well as aleatory uncertainties associated with seismic loads and structural behavior are usually taken into account to analytically develop such curves. However, structural analyses are time-consuming, requiring generally a high computational effort. Moreover, the conditional probability of failure is usually computed by regression analysis assuming predefined probability functions, like the log-normal distribution, without prior information on the real probability distribution. To overcome these problems, the artificial neural network (ANN) technique is used for the development of structural seismic fragility curves considering record-to-record variability and structural parameter uncertainties. In this respect, the following aspects are addressed in this paper: (a) implementation of an efficient algorithm to select IMs as inputs for ANN, selecting the most relevant ones; (b) derivation of surrogate models by using the ANN technique, c) computation of fragility curves with Monte Carlo Simulations method and verification of the validity. These methods enable the implicit treatment of uncertainty in either or both of ground motion intensity and structural properties without making any prior assumption about the probability function. This methodology is then applied to estimate the probability of failure of a nonstructural component (NSC), i.e., vertical tank, located on a typical three-dimensional industrial frame. First, an extensive sensitivity analysis on the ANN input parameters is performed (feature selection), identifying the type and number of seismic intensity measures (amplitude-based, frequency-based, and time-based IM). Then different surrogate models are derived investigating the number of hidden layers and parameters. A multiple stripe analysis is then performed on a nonlinear model of the structure, deriving the set of data for the ANN. Different training and test subsets are used to derive the surrogate model. Finally, a Monte Carlo simulation is performed to derive the fragility curves for the limit state considered. Finally, the risk assessment is obtained, evaluating the mean annual rate of failure of the NSC.<br/></div> Copyright &copy; 2022 by ASME.
+Number of references:15
+Main heading:Sensitivity analysis
+Controlled terms:Computational efficiency - Damage detection - Earthquake engineering - Earthquakes - Failure analysis - Intelligent systems - Monte Carlo methods - Neural networks - Normal distribution - Regression analysis  - Risk assessment - Stochastic systems - Structural analysis
+Uncontrolled terms:Features selection - Fragility curves - Ground motion intensities - Monte Carlo's simulation - Neural network techniques - Non-structural components - Probability functions - Probability of failure - Seismic fragility analysis - Surrogate modeling
+Classification code:408.1  Structural Design, General - 484  Seismology - 484.3  Earthquake Resistance - 723.4  Artificial Intelligence - 731.1  Control Systems - 914.1  Accidents and Accident Prevention - 921  Mathematics - 922.1  Probability Theory - 922.2  Mathematical Statistics - 961  Systems Science
+DOI:10.1115/PVP2022-83874
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 12>
+
+Accession number:20212010368592
+Title:Vertical equipment isolation using piezoelectric inertial-type isolation system
+Authors:Lu, Lyan-Ywan (1); Lin, Ging-Long (2); Chen, Yi-Siang (3); Hsiao, Kun-An (1) 
+Author affiliation:(1) Department of Civil Engineering, National Cheng Kung University, 1 University Road, Tainan; 701, Taiwan; (2) Department of Construction Engineering, National Kaohsiung University of Science and Technology, 1 University Road, Kaohsiung; 824, Taiwan; (3) Department of Civil and Construction Engineering, National Taiwan University of Science and Technology, 43 Keelung Road, Sec. 4, Taipei; 106, Taiwan 
+Corresponding author:Lu, Lyan-Ywan(lylu@ncku.edu.tw)
+Source title:Smart Structures and Systems
+Abbreviated source title:Smart Struct. Syst.
+Volume:26
+Issue:2
+Issue date:August 2020
+Publication year:2020
+Pages:195-211
+Language:English
+ISSN:17381584
+E-ISSN:17381991
+Document type:Journal article (JA)
+Publisher:Techno-Press
+Abstract:<div data-language="eng" data-ev-field="abstract">Among anti-seismic technologies, base isolation is a very effective means of mitigating damage to structural and nonstructural components, such as equipment. However, most seismic isolation systems are designed for mitigating only horizontal seismic responses because the realization of a vertical isolation system (VIS) is difficult. The difficulty is primarily due to conflicting isolation stiffness demands in the static and dynamic states for a VIS, which requires sufficient rigidity to support the self-weight of the isolated object in the static state, but sufficient flexibility to lengthen the isolation period and uncouple the ground motion in the dynamic state. To overcome this problem, a semi-active VIS, called the piezoelectric inertia-type vertical isolation system (PIVIS), is proposed in this study. PIVIS is composed of a piezoelectric friction damper (PFD) and a leverage mechanism with a counterweight. The counterweight provides an uplifting force in the static state and an extra inertial force in the dynamic state; therefore, the effective vertical stiffness of PIVIS is higher in the static state and lower in the dynamic state. The PFD provides a controllable friction force for PIVIS to further prevent its excessive displacement. For experimental verification, a shaking table test was conducted on a prototype PIVIS controlled by a simple controller. The experimental results well agree with the theoretical results. To further investigate the isolation performance of PIVIS, the seismic responses of PIVIS were simulated numerically by considering 14 vertical ground motions with different characteristics. The responses of PIVIS were compared with those of a traditional VIS and a passive system (PIVIS without control). The numerical results demonstrate that compared with the traditional and passive systems, PIVIS can effectively suppress isolation displacement in all kinds of earthquake with various peak ground accelerations and frequency content while maintaining its isolation efficiency. The proposed system is particularly effective for near-fault earthquakes with long-period components, for which it prevents resonant-like motion.<br/></div> &copy; 2020 Techno-Press, Ltd.
+Number of references:43
+Main heading:Piezoelectric actuators
+Controlled terms:Piezoelectricity - Earthquakes - Seismic response - Stiffness - Friction - Faulting
+Uncontrolled terms:Experimental verification - Isolation efficiencies - Isolation performance - Non-structural components - Peak ground acceleration - Piezoelectric friction damper - Seismic isolation systems - Vertical ground motion
+Classification code:484  Seismology - 484.1  Earthquake Measurements and Analysis - 484.2  Secondary Earthquake Effects - 701.1  Electricity: Basic Concepts and Phenomena - 704.1  Electric Components - 732  Control Devices - 951  Materials Science
+DOI:10.12989/sss.2020.26.2.195
+Funding details:  Number: MOST108-2625-M-006-005, Acronym: MOST, Sponsor: Ministry of Science and Technology, Taiwan;
+Funding text:This research was supported in part by the Ministry of Science and Technology of R.O.C. (Taiwan) through grant MOST108-2625-M-006-005. The authors are grateful to the National Center for Research on Earthquake Engineering (NCREE, Taipei) for its technical support of the experiment.
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 13>
+
+Accession number:20194607682901
+Title:Evaluating adaptive vertical seismic isolation for equipment in nuclear power plants    (Open Access)
+Authors:Najafijozani, Mohammadreza (1); Becker, Tracy C. (2); Konstantinidis, Dimitrios (2) 
+Author affiliation:(1) Department of Civil Engineering, McMaster University, Hamilton, Canada; (2) Department of Civil and Environmental Engineering, University of California, Berkeley, United States 
+Corresponding author:Becker, Tracy C.(tcbecker@berkeley.edu)
+Source title:Nuclear Engineering and Design
+Abbreviated source title:Nucl Eng Des
+Volume:358
+Issue date:March 2020
+Publication year:2020
+Article number:110399
+Language:English
+ISSN:00295493
+CODEN:NEDEAU
+Document type:Journal article (JA)
+Publisher:Elsevier Ltd
+Abstract:Seismic isolation systems are widely recognized as beneficial for protecting both acceleration- and displacement-sensitive nonstructural systems and components. So-called adaptive isolation systems exhibit nonlinear characteristics that enable engineers to achieve various performance goals at different hazard levels. These systems have been implemented to control the horizontal response, but there has been limited research on seismic isolation for controlling the vertical response. Thus, this paper seeks to evaluate the merits of adaptive vertical isolation systems for components, specifically in nuclear power plants (NPPs). To do this, six vertical isolation systems are designed to achieve multiple goals. The systems consist of in-parallel configurations of linear and nonlinear springs and dampers, falling into three groups depending on the elements they combine: (1) linear springs and linear dampers (LSLD), (2) linear springs and nonlinear dampers (LSND), and (3) nonlinear springs and linear dampers (NSLD). To investigate the effectiveness of the systems, a stiff piece of equipment is considered at an elevated floor within an NPP. A set of 30 triaxial ground motions is used to investigate the seismic performance of the equipment. The peak isolation displacement and peak equipment acceleration are used to assess the effectiveness of the vertical isolation systems. While all systems significantly reduce the seismic accelerations on the equipment, the relatively simple LSLD and LSND systems exhibit superior performance over multiple hazard levels.<br/> &copy; 2019 Elsevier B.V.
+Number of references:53
+Main heading:Nuclear power plants
+Controlled terms:Earthquakes - Nuclear energy - Hazards - Nuclear fuels
+Uncontrolled terms:Displacement sensitive - Nonlinear characteristics - Nonstructural systems - Parallel configuration - Seismic accelerations - Seismic isolation systems - Seismic protection - Seismic risk
+Classification code:484  Seismology - 613  Nuclear Power Plants - 914.1  Accidents and Accident Prevention - 932.2  Nuclear Physics
+DOI:10.1016/j.nucengdes.2019.110399
+Funding details:  Number: -, Acronym: NSERC, Sponsor: Natural Sciences and Engineering Research Council of Canada;
+Funding text:Funding for this work was provided by the National Sciences and Engineering Research Council CaNRisk CREATE program .Funding for this work was provided by the National Sciences and Engineering Research Council CaNRisk CREATE program.
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+Open Access type(s): All Open Access, Green
+
+<RECORD 14>
+
+Accession number:20190906544168
+Title:Vertical peak floor accelerations of elastic moment-resisting steel frames    (Open Access)
+Authors:Gremer, Nadia (1); Adam, Christoph (1); Medina, Ricardo A. (2); Moschen, Lukas (1, 3) 
+Author affiliation:(1) Unit of Applied Mechanics, University of Innsbruck, Innsbruck, Austria; (2) Department of Civil and Environmental Engineering, University of New Hampshire, Durham; NH, United States; (3) Unit of Acoustics and Dynamics, VCE Vienna Consulting Engineers ZT GmbH, Vienna, Austria 
+Corresponding author:Adam, Christoph(christoph.adam@uibk.ac.at)
+Source title:Bulletin of Earthquake Engineering
+Abbreviated source title:Bull. Earthquake Engin.
+Volume:17
+Issue:6
+Issue date:June 15, 2019
+Publication year:2019
+Pages:3233-3254
+Language:English
+ISSN:1570761X
+E-ISSN:15731456
+Document type:Journal article (JA)
+Publisher:Springer Science and Business Media B.V.
+Abstract:The scope of this study is the quantification of vertical peak floor acceleration demands at column lines and along the length of beams of elastic moment-resisting steel frames subjected to recorded ground motions. These demands correlate with the maximum strength demands on rigid nonstructural components attached to a frame structure. Since it is commonly assumed that buildings behave flexibly in the horizontal direction and rigidly in the vertical direction, the assessment of vertical acceleration demands is typically not considered in most cases. The results of this study show that vertical peak floor accelerations can be up to five times larger than the vertical peak ground acceleration, in contrast to horizontal peak floor accelerations that are only up to two times larger than the horizontal peak ground acceleration for the numerical models used in this study. The most significant amplifications estimated in the vertical direction are found at the center of the girders. Further investigations of modified steel frames indicate that the story-wise mass distribution has an influence not only on the vertical acceleration demand, but also on the horizontal component of the response, though to a lesser degree. In contrast, the response in the vertical and horizontal direction is only slightly affected by an increase in the flexural stiffness of the beams. The results of this study strongly indicate that in steel frames it can be considered highly questionable to ignore the amplification of the vertical acceleration component along the height of the structure.<br/> &copy; 2019, The Author(s).
+Number of references:31
+Main heading:Structural frames
+Controlled terms:Steel construction - Floors - Rigid structures - Rigidity - Acceleration
+Uncontrolled terms:Flexural stiffness - Horizontal acceleration - Moment-resisting steel frames - Non-structural components - Peak floor - Peak ground acceleration - Vertical accelerations - Vertical direction
+Classification code:402  Buildings and Towers - 405.2  Construction Methods - 408  Structural Design - 408.2  Structural Members and Shapes - 545.3  Steel - 951  Materials Science
+DOI:10.1007/s10518-019-00576-6
+Funding details:  Number: -, Acronym: -, Sponsor: Universit&auml;t Innsbruck;
+Funding text:Open access funding provided by University of Innsbruck and Medical University of Innsbruck.
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+Open Access type(s): All Open Access, Hybrid Gold, Green
+
+<RECORD 15>
+
+Accession number:20193107245277
+Title:Damping modification factor for elastic floor spectra
+Authors:Anajafi, Hamidreza (1); Medina, Ricardo A. (2) 
+Author affiliation:(1) Department of Civil and Environmental Engineering, University of New Hampshire, W137 Kingsbury Hall, Durham; NH; 03824, United States; (2) Simpson Gumpertz & Heger, Waltham; MA, United States 
+Corresponding author:Anajafi, Hamidreza(hamid.anajafi@unh.edu)
+Source title:Bulletin of Earthquake Engineering
+Abbreviated source title:Bull. Earthquake Engin.
+Volume:17
+Issue:11
+Issue date:November 1, 2019
+Publication year:2019
+Pages:6079-6108
+Language:English
+ISSN:1570761X
+E-ISSN:15731456
+Document type:Journal article (JA)
+Publisher:Springer Science and Business Media B.V.
+Abstract:Nonstructural components (NSCs) housed in building structures are subject to semi-narrow band excitations generated via filtering of the ground motion by the supporting building. NSC design forces are generally provided based on adopting a 5% NSC viscous damping ratio (&xi;<inf>C</inf>), whereas recent experiments illustrate that typical NSCs may exhibit &xi;<inf>C</inf> values substantially different, mostly lower, than 5%. This study introduces damping modification factors (DMFs) to adjust NSCs elastic seismic design forces for other &xi;<inf>C</inf> values. Elastic floor spectra with different &xi;<inf>C</inf> values are developed for floor motions obtained from several code-based designed buildings subjected to ground motion sets with different intensities. Numerical analyses illustrate that due to the narrow-band characteristic of building floor motions, applying conventional DMFs proposed for adjusting ground spectral ordinates may lead to the underprediction of floor spectral ordinates up to 55% for the range of &xi;<inf>C</inf> evaluated in this study. Assuming a value of &xi;<inf>C</inf>, the amplitude of the DMF for a building floor spectrum is primarily a function of the NSC tuning ratio. For example, for a given floor motion and a &xi;<inf>C</inf> value of 2%, the DMF can vary from 1.0 (for a non-tuning condition) to 1.6 (for a tuning condition). To a lesser extent, the DMF is also influenced by supporting building characteristics (e.g., the level of inelastic behavior, fundamental period, height, and lateral-force resisting system), the vertical location of the NSC in the building, and ground excitation characteristics. Practical expressions, which are developed through simple modifications of the prescribed ground spectra DMFs by ASCE/SEI 41-13, are proposed to estimate DMFs for elastic floor spectra.<br/> &copy; 2019, Springer Nature B.V.
+Number of references:58
+Main heading:Damping
+Controlled terms:Seismic design - Buildings - Floors
+Uncontrolled terms:Building characteristics - Damping ratio - Floor response spectrum - Lateral force resisting system - Modification factors - Narrow bands - Narrow-band excitation - Non-structural components
+Classification code:402  Buildings and Towers - 408  Structural Design - 484.3  Earthquake Resistance - 931.1  Mechanics
+Numerical data indexing:Percentage 2.00e+00%, Percentage 5.00e+00%, Percentage 5.50e+01%
+DOI:10.1007/s10518-019-00684-3
+Funding details:  Number: ATC-120, Acronym: -, Sponsor: -;Number: -, Acronym: UNH, Sponsor: University of New Hampshire;
+Funding text:This study was partially supported by a Dissertation Year Fellowship provided by the University of New Hampshire to the first author. This support is greatly appreciated. In 2015&ndash;2017, Applied Technology Council sponsored the ATC-120 Project on Seismic Analysis, Design, and Installation of Nonstructural Components and Systems. The authors of the present study were members of the project team. During ATC-120 meetings, discussions ensued on using a viscous damping ratio less than the default 5% for nonstructural components. These discussions, particularly works conducted by Dr. Eduardo Miranda and his coworkers, Dr. Dimitrios Vamvatsikos and Dr. Athanasia Kazantzi, served as a motivation for the present study. These contributions of the members of the ATC-120 project team are gratefully acknowledged.
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 16>
+
+Accession number:20162202439694
+Title:Vertical acceleration demands on column lines of steel moment-resisting frames
+Authors:Moschen, Lukas (1); Medina, Ricardo A. (2); Adam, Christoph (1) 
+Author affiliation:(1) Unit of Applied Mechanics, University of Innsbruck, Innsbruck; 6020, Austria; (2) Department of Civil and Environmental Engineering, University of New Hampshire, Durham; NH; 03824, United States 
+Corresponding author:Moschen, Lukas(lukas.moschen@uibk.ac.at)
+Source title:Earthquake Engineering and Structural Dynamics
+Abbreviated source title:Earthqua. Eng. Struct. Dyn.
+Volume:45
+Issue:12
+Issue date:October 10, 2016
+Publication year:2016
+Pages:2039-2060
+Language:English
+ISSN:00988847
+E-ISSN:10969845
+CODEN:IJEEBG
+Document type:Journal article (JA)
+Publisher:John Wiley and Sons Ltd
+Abstract:In this paper, vertical peak floor acceleration (PFA<inf>v</inf>) demands on elastic multistory buildings are statistically evaluated using recorded ground motions. These demands are applicable to the assessment of nonstructural components that are rigid in the vertical direction and located at column lines or next to columns. Hence, PFA<inf>v</inf> demands of the floor system away from column lines and their effects on nonstructural components are not addressed. This study is motivated by the questionable general assumption that typical buildings are considered to be relatively flexible in the horizontal (lateral) direction but relatively rigid in the vertical (longitudinal) direction. Consequently, only few papers address the evaluation of vertical component acceleration demands throughout a building, and there is no consensus on the relevance of vertical accelerations in buildings. The results presented in this study show that the vertical ground acceleration demands are amplified throughout the column line of a steel frame structure. This amplification is in many cases significant, depending on the vertical stiffness of the load-bearing system, damping ratio, and the location of the nonstructural component in the building. From these outcomes it can be concluded that the perception of a rigid-body response of the column lines in the vertical direction is highly questionable, and further research on this topic is required. Copyright &copy; 2016 John Wiley & Sons, Ltd.<br/> Copyright &copy; 2016 John Wiley & Sons, Ltd.
+Number of references:35
+Main heading:Copyrights
+Controlled terms:Structural frames - Acceleration - Floors
+Uncontrolled terms:Column line - Non-structural components - perimeter frames - Vertical accelerations - Vertical ground motion
+Classification code:402  Buildings and Towers - 408.2  Structural Members and Shapes - 902.3  Legal Aspects
+DOI:10.1002/eqe.2751
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 17>
+
+Accession number:20180204635675
+Title:Seismic retrofit of low-rise steel buildings in Canada using rocking steel braced frames    (Open Access)
+Authors:Mottier, Paul (1); Tremblay, Robert (1); Rogers, Colin (2) 
+Author affiliation:(1) Department of Civil, Geological, and Mining Engineering, Polytechnique Montreal, Montreal, Canada; (2) Department of Civil Engineering and Applied Mechanics, McGill University, Montreal, Canada 
+Corresponding author:Mottier, Paul(paul.mottier@polymtl.ca)
+Source title:Earthquake Engineering and Structural Dynamics
+Abbreviated source title:Earthqua. Eng. Struct. Dyn.
+Volume:47
+Issue:2
+Issue date:Februaryy 2018
+Publication year:2018
+Pages:333-355
+Language:English
+ISSN:00988847
+E-ISSN:10969845
+CODEN:IJEEBG
+Document type:Journal article (JA)
+Publisher:John Wiley and Sons Ltd
+Abstract:This article examines the use of rocking steel braced frames for the retrofit of existing seismically deficient steel building structures. Rocking is also used to achieve superior seismic performance to reduce repair costs and disruption time after earthquakes. The study focuses on low-rise buildings for which re-centring is solely provided by gravity loads rather than added post-tensioning elements. Friction energy dissipative (ED) devices are used to control drifts. The system is applied to 2-storey and 3-storey structures located in 2 seismically active regions of Canada. Firm ground and soft soil conditions are considered. The seismic performance of the retrofit scheme is evaluated using nonlinear dynamic analysis and ASCE 41-13. For all structures, rocking permits to achieve immediate occupancy performance under 2% in 50&nbsp;years seismic hazard if the braces and their connections at the building's top storeys are strengthened to resist amplified forces due to higher mode response. Base shears are also increased due to higher modes. Impact at column bases upon rocking induces magnified column forces and vertical response in the gravity system. Friction ED is found more effective for drift control than systems with ring springs or bars yielding in tension. Drifts are sufficiently small to achieve position retention performance for most nonstructural components. Horizontal accelerations are generally lower than predicted from ASCE 41 for regular nonrocking structures. Vertical accelerations in the gravity framing directly connected to the rocking frame are however higher than those predicted for ordinary structures. Vertical ground motions have limited effect on frame response.<br/> Copyright &copy; 2017 John Wiley & Sons, Ltd.
+Number of references:39
+Main heading:Energy dissipation
+Controlled terms:Friction - Seismic waves - Retrofitting - Earthquakes - Structural frames - Ring springs
+Uncontrolled terms:Braced steel frames - Floor accelerations - Horizontal acceleration - Non-structural components - retrofit - Seismically active region - Steel Building Structures - Vertical accelerations
+Classification code:408.2  Structural Members and Shapes - 484  Seismology - 525.4  Energy Losses (industrial and residential) - 601.2  Machine Components - 913.5  Maintenance
+Numerical data indexing:Percentage 2.00e+00%
+DOI:10.1002/eqe.2953
+Funding details:  Number: 182085, Acronym: FRQNT, Sponsor: Fonds de Recherche du Qu&eacute;bec - Nature et Technologies;
+Funding text:Funding for this research was provided by the Fonds de Recherche du Qu&eacute;bec&mdash;Nature et Technologies (FRQNT) of the Government of Quebec, Canada.
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+Open Access type(s): All Open Access, Green
+
+<RECORD 18>
+
+Accession number:20212310452715
+Title:Effect of structural characteristics on damping modification factors for floor response spectra in RC buildings
+Authors:Surana, Mitesh (1); Singh, Yogendra (2); Lang, Dominik H. (3) 
+Author affiliation:(1) Department of Civil Engineering, Indian Institute of Technology Ropar, Rupnagar; Punjab; 140001, India; (2) Department of Earthquake Engineering, Indian Institute of Technology Roorkee, Roorkee; Uttarakhand; 247667, India; (3) Natural Hazards Market Area, Norwegian Geotechnical Institute, Songsveien 72, Oslo; 0855, Norway 
+Corresponding author:Surana, Mitesh(msurana@iitrpr.ac.in)
+Source title:Engineering Structures
+Abbreviated source title:Eng. Struct.
+Volume:242
+Issue date:September 1, 2021
+Publication year:2021
+Article number:112514
+Language:English
+ISSN:01410296
+E-ISSN:18737323
+CODEN:ENSTDF
+Document type:Journal article (JA)
+Publisher:Elsevier Ltd
+Abstract:<div data-language="eng" data-ev-field="abstract">Floor response spectra (FRS) are used to compute the design floor accelerations for seismic design of acceleration-sensitive non-structural components (NSCs) in a building. In the present study, the elastic FRS at different floor levels are investigated for a set of linear and nonlinear models of both low- and mid-rise reinforced concrete (RC) frame structures. The damping modification factors (DMFs) for the elastic FRS are derived for seven different damping ratios of the NSC's (i.e. 0.1%, 0.2%, 0.5%, 1%, 2%, 5%, and 10%), and six different levels of inelastic response in the building structure. It is observed that DMFs for the elastic FRS are influenced by both NSC and building structure characteristics. The factors affecting the DMFs for the elastic FRS include the damping ratio of the NSC, the tuning ratio (i.e. the ratio between the period of vibration of the NSC, T<inf>s</inf>, to the fundamental period of vibration of the building structure, T<inf>1</inf>), the modal periods (T<inf>1</inf> and T<inf>2</inf>), and the level of the building structure's inelasticity. Conversely, the vertical location of the NSC in the building structure does not affect DMFs significantly. Further, in the case of a tuned response of the NSC, the DMFs for elastic FRS are significantly higher for NSC damping ratios less than 5% and lower for NSC damping ratios greater than 5%, than those conventionally used for the elastic ground response spectra (GRS). This is true for the elastic response as well as for low levels of inelasticity in the building structure. On the other hand, at high levels of the building structure's inelasticity, the DMFs for elastic FRS approach to the conventional DMFs derived for the elastic GRS. Considering these observations, a design-oriented multilinear model is proposed to compute DMFs for the elastic FRS, accounting for the specific characteristics of the NSC (i.e. the period and the damping ratio of the NSC) and the building structure (i.e. the modal periods and the level of the inelasticity). The proposed model for computing the DMFs for elastic FRS is validated by comparing the model predictions with those obtained by time-history analyses, using a different RC frame building and an entirely different suite of ground-motion records than those that were used to develop the proposed model. The proposed model to compute DMFs for the elastic FRS can be used with both the current code-based and the performance-based seismic design of NSCs located in the inelastic building structures.<br/></div> &copy; 2021 Elsevier Ltd
+Number of references:40
+Main heading:Damping
+Controlled terms:Floors - Seismic response - Structural frames - Seismic design - Architectural design - Reinforced concrete
+Uncontrolled terms:Building structure - Damping modification factor - Damping ratio - Elastic floor - Floor response spectrum - Ground response - Modification factors - Nonstructural components - Performance based seismic design - Reinforced concrete frame building structure
+Classification code:402  Buildings and Towers - 408  Structural Design - 408.1  Structural Design, General - 408.2  Structural Members and Shapes - 412  Concrete - 484.2  Secondary Earthquake Effects - 484.3  Earthquake Resistance - 931.1  Mechanics
+Numerical data indexing:Percentage 1.00E+01%, Percentage 1.00E-01%, Percentage 1.00E00%, Percentage 2.00E+00%, Percentage 2.00E-01%, Percentage 5.00E+00%, Percentage 5.00E-01%
+DOI:10.1016/j.engstruct.2021.112514
+Funding details:  Number: -, Acronym: IITR, Sponsor: Indian Institute of Technology Roorkee;
+Funding text:The work presented in this manuscript was conducted partly at the Indian Institute of Technology Ropar and partly at the Indian Institute of Technology Roorkee. The support received from both institutions is gratefully acknowledged. The ground-motion records were obtained from the PEER NGA WEST 2 database. The help received from Mr. Ankur Jain, Research Scholar, Department of Civil Engineering, Indian Institute of Technology Ropar in creating building plans and structural models for the validation purpose of the model proposed in the present study is gratefully acknowledged. The authors would further like to express their thanks to three anonymous reviewers, and the editorial board member(s) for very constructive comments and suggestions to improve the manuscript significantly.
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 19>
+
+Accession number:20153901314071
+Title:Vertical acceleration demands on nonstructural components in buildings    (Open Access)
+Authors:Moschen, L. (1); Medina, R.A. (2); Adam, C. (1) 
+Author affiliation:(1) Unit of Applied Mechanics, Department of Engineering Science, University of Innsbruck, Austria, Technikerstr. 13, Innsbruck; 6020, Austria; (2) Department of Civil and Environmental Engineering, University of New Hampshire, U.S.A., Kingsbury Hall, 33 Academic Way, Durham; NH; 03824, United States 
+Source title:COMPDYN 2015 - 5th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering
+Abbreviated source title:COMPDYN - ECCOMAS Themat. Conf. Comput. Methods Struct. Dyn. Earthq. Eng.
+Part number:1of1
+Issue title:COMPDYN 2015 - 5th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering
+Issue date:2015
+Publication year:2015
+Pages:1379-1399
+Language:English
+Document type:Conference article (CA)
+Conference name:5th ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, COMPDYN 2015
+Conference date:May 25, 2015  -  May 27, 2015
+Conference location:Hersonissos, Crete, Greece
+Conference code:113952
+Publisher:National Technical University of Athens
+Abstract:This paper addresses the statistical evaluation of vertical peak floor acceleration (PFA<inf>v</inf>) demands on elastic multistory buildings using recorded ground motions. Typical buildings are considered to be relatively flexible in the horizontal (lateral) direction and relatively rigid in the vertical (longitudinal) direction. The vast majority of studies conducted on the quantification of component acceleration demands have considered the flexibility of the nonstructural component (NSC) and its supporting structure primarily in the lateral direction. Studies on the evaluation of vertical component acceleration demands throughout a building are scarce and different opinions exist on the relevance of vertical accelerations in buildings. This paper focuses on the quantification of PFA<inf>v</inf>, which implies that NSCs are assumed to be rigid in the vertical direction. Only rigid NSCs located close to columns of moment-resisting frames are considered. Thus, the influence of vertical floor vibrations and their dependence on the properties of the floor system is not addressed. The results demonstrate that the amplification of vertical ground acceleration demands throughout a building depends on the vertical stiffness of the load bearing structure, and hence, the common assumption of rigid-body responses in the vertical direction is highly questionable.<br/>
+Number of references:25
+Main heading:Acceleration
+Controlled terms:Buildings - Earthquake engineering - Floors - Rigid structures
+Uncontrolled terms:Loadbearing structure - Moment resisting frames - Non-structural components - Perimeter frames - Statistical evaluation - Vertical accelerations - Vertical ground accelerations - Vertical ground motion
+Classification code:402  Buildings and Towers - 408  Structural Design - 484.3  Earthquake Resistance
+DOI:10.7712/120115.3473.497
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+Open Access type(s): All Open Access, Bronze
+
+<RECORD 20>
+
+Accession number:20162202448152
+Title:Seismic performance evaluation of posttensioned hybrid precast wall-frame buildings and comparison with shear wall-frame buildings
+Authors:Samith Buddika, H.A.D. (1); Wijeyewickrema, Anil C. (1) 
+Author affiliation:(1) Dept. of Civil and Environmental Engineering, Tokyo Institute of Technology, O-okayama, Meguro-ku; Tokyo; 152-8552, Japan 
+Corresponding author:Wijeyewickrema, Anil C.(wijeyewickrema.a.aa@m.titech.ac.jp)
+Source title:Journal of Structural Engineering (United States)
+Abbreviated source title:J. Struct. Eng.
+Volume:142
+Issue:6
+Issue date:June 1, 2016
+Publication year:2016
+Article number:04016021
+Language:English
+ISSN:07339445
+E-ISSN:1943541X
+CODEN:JSENDH
+Document type:Journal article (JA)
+Publisher:American Society of Civil Engineers (ASCE), United States
+Abstract:Seismic performance of posttensioned hybrid precast wall systems has been mainly studied in the past without considering the interaction of the wall system with the rest of the structure. In the present study, the multilevel seismic response of posttensioned hybrid precast wall-frame (PWF) buildings is evaluated using nonlinear response history analysis and compared with the response of shear wall-frame (SWF) buildings under unidirectional excitation. For that purpose, three-dimensional finite-element models of code-compliant 4- and 8-story PWF and SWF buildings designed with different frame shear ratios are considered. The performance of buildings is evaluated under spectrum-matched earthquake motions to represent two levels of shaking viz the design earthquake (DE) level and the risk-targeted maximum considered earthquake (MCE<inf>R</inf>) level. The effect of the vertical component of earthquake motion on the peak response indicators of both types of buildings is also studied. It is determined that the seismic performance of PWF buildings is superior to SWF buildings in terms of limiting structural damage under the DE-level and the MCE<inf>R</inf>-level ground motions, despite the relatively larger roof drifts observed in the PWF buildings; however, nonstructural damage caused by floor accelerations is more pronounced in the PWF buildings. In addition, it is determined that the inclusion of the vertical component of earthquake motion does not significantly affect the peak response indicators of the PWF and SWF buildings considered in this study.<br/> &copy; 2016 American Society of Civil Engineers.
+Number of references:43
+Main heading:Shear flow
+Controlled terms:Seismic design - Seismic waves - Earthquakes - Seismic response - Structural analysis - Finite element method - Shear walls
+Uncontrolled terms:Earthquake motion - Frame shear ratio - Maximum considered earthquakes - Precast walls - Seismic effect - Shear wall frames
+Classification code:402  Buildings and Towers - 408  Structural Design - 408.1  Structural Design, General - 484  Seismology - 484.2  Secondary Earthquake Effects - 484.3  Earthquake Resistance - 631.1  Fluid Flow, General - 921.6  Numerical Methods
+DOI:10.1061/(ASCE)ST.1943-541X.0001466
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 21>
+
+Accession number:20172703889528
+Title:Drift demand of the outer-skin curtain wall system of the Shanghai Tower
+Authors:Huang, Baofeng (1); Lu, Wensheng (1); Chen, Shiming (1); Mosalam, Khalid M. (2) 
+Author affiliation:(1) Research Institute of Structural Engineering and Disaster Reduction, Tongji University, Shanghai, China; (2) Department of Civil and Environmental Engineering, University of California, Berkeley; CA, United States 
+Corresponding author:Huang, Baofeng(baofeng@njtech.edu.cn)
+Source title:Structural Design of Tall and Special Buildings
+Abbreviated source title:Struct. Des. Tall Spec. Build.
+Volume:26
+Issue:17
+Issue date:December 10, 2017
+Publication year:2017
+Article number:e1388
+Language:English
+ISSN:15417794
+E-ISSN:15417808
+Document type:Journal article (JA)
+Publisher:John Wiley and Sons Ltd
+Abstract:As a drift-sensitive nonstructural component, the in-plane deformation ability of the curtain wall (CW) in a tall building is critical to the seismic performance. The immediate earthquake excitation of the CW system is the floor response where the CW is located. To evaluate the drift demand of the outer-skin CW system of the Shanghai Tower, floor responses of the reinforced stories of each vertical zone are analyzed. Drift demands, including the interzone drift ratio (IDR) and interzone drift response spectrum (IDRS), are obtained to define the engineering demand parameters related to the in-plane relative displacement of the CW system. The results show that the 3-dimensional ground motion (GM) excitations generate larger heightwise IDR distribution profiles and larger IDRSs than the 1-dimensional GMs. The obtained IDR demands are shown to be 1/250, 1/150, and 1/100 for 3 key earthquake intensity levels. These values are different from those given by the current code provisions of China and other countries. The IDR distribution profiles of each vertical zone increase with height. The mean IDRSs of all 8 main vertical zones under selected GM excitations are determined as the representative drift spectra for each earthquake intensity level. Based on these mean spectra, simplified bilinear drift spectra are constructed for seismic design and analysis of the outer-skin CW system of the Shanghai Tower.<br/> Copyright &copy; 2017 John Wiley & Sons, Ltd.
+Number of references:46
+Main heading:Towers
+Controlled terms:Earthquake effects - Seismic design - Tall buildings - Floors - Walls (structural partitions)
+Uncontrolled terms:Curtain walls - Drift demands - Drift ratio - DRIFT spectra - Earthquake excitation - Engineering demand parameters - Non-structural components - Relative displacement
+Classification code:402  Buildings and Towers - 402.4  Towers - 408  Structural Design - 408.2  Structural Members and Shapes - 484.3  Earthquake Resistance
+DOI:10.1002/tal.1388
+Funding details:  Number: -, Acronym: UC Berkeley, Sponsor: University of California Berkeley;Number: -, Acronym: -, Sponsor: Tongji University;Number: 51578405,51578411,51608381, Acronym: -, Sponsor: National Aerospace Science Foundation of China;Number: 2013ZX06005004‐002‐001,2016YFE0105600, Acronym: -, Sponsor: National Major Science and Technology Projects of China;
+Funding text:Most of this study was conducted in the State Key laboratory of Disaster Reduction in Civil Engineering, Tongji University, Shanghai, China. This work was supported by the China National Science Foundation through grants 51608381, 51578411, 51578405, and China National Science and Technology Major Project through grants 2013ZX06005004&#8208;002&#8208;001, 2016YFE0105600. The first and fourth authors recognize additional funding from the Republic of Singapore's National Research Foundation through a grant to the Berkeley Education Alliance for Research in Singapore (BEARS) for the Singapore&#8208;Berkeley Building Efficiency and Sustainability in the Tropics (SinBerBEST) Program. BEARS was established by the University of California, Berkeley as a center for intellectual excellence in research and education in Singapore.Most of this study was conducted in the State Key laboratory of Disaster Reduction in Civil Engineering, Tongji University, Shanghai, China. This work was supported by the China National Science Foundation through grants 51608381, 51578411, 51578405, and China National Science and Technology Major Project through grants 2013ZX06005004-002-001, 2016YFE0105600. The first and fourth authors recognize additional funding from the Republic of Singapore's National Research Foundation through a grant to the Berkeley Education Alliance for Research in Singapore (BEARS) for the Singapore-Berkeley Building Efficiency and Sustainability in the Tropics (SinBerBEST) Program. BEARS was established by the University of California, Berkeley as a center for intellectual excellence in research and education in Singapore.China National Science Foundation, Grant/ Award Number: 51608381, 51578411 and 51578405; China National Science and Technology Major Project, Grant/Award Number: 2013ZX06005004&#8208;002&#8208;001 and 2016YFE0105600
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 22>
+
+Accession number:20143117996974
+Title:Damping scaling factors for elastic response spectra for shallow crustal earthquakes in active tectonic regions: "Average" horizontal component
+Authors:Rezaeian, Sanaz (1); Bozorgnia, Yousef (2); Idriss, I.M. (3); Abrahamson, Norman (4); Campbell, Kenneth (5); Silva, Walter (6) 
+Author affiliation:(1) U.S. Geological Survey, Golden, CO, Canada; (2) Pacific Earthquake Engineering Research Center, University of California, Berkeley, CA, United States; (3) University of California, Davis, CA, United States; (4) Pacific Gas and Electric Company, CA, United States; (5) EQECAT Inc., Beaverton, OR, United States; (6) Pacific Engineering and Analysis, El Cerrito, CA, United States 
+Source title:Earthquake Spectra
+Abbreviated source title:Earthquake Spectra
+Volume:30
+Issue:2
+Issue date:May 2014
+Publication year:2014
+Pages:939-963
+Language:English
+ISSN:87552930
+CODEN:EASPEF
+Document type:Journal article (JA)
+Publisher:Earthquake Engineering Research Institute
+Abstract:Ground motion prediction equations (GMPEs) for elastic response spectra are typically developed at a 5% viscous damping ratio. In reality, however, structural and nonstructural systems can have other damping ratios. This paper develops a new model for a damping scaling factor (DSF) that can be used to adjust the 5% damped spectral ordinates predicted by a GMPE for damping ratios between 0.5% to 30%. The model is developed based on empirical data from worldwide shallow crustal earthquakes in active tectonic regions. Dependencies of the DSF on potential predictor variables, such as the damping ratio, spectral period, ground motion duration, moment magnitude, source-to-site distance, and site conditions, are examined. The strong influence of duration is captured by the inclusion of both magnitude and distance in the DSF model. Site conditions show weak influence on the DSF. The proposed damping scaling model provides functional forms for the median and logarithmic standard deviation of DSF, and is developed for both RotD50 and GMRotI50 horizontal components. A follow-up paper develops a DSF model for vertical ground motion.&copy; 2014, Earthquake Engineering Research Institute.<br/>
+Number of references:45
+Main heading:Damping
+Controlled terms:Equations of motion - Tectonics - Motion estimation - Earthquake effects
+Uncontrolled terms:Crustal earthquakes - Elastic response spectra - Ground-motion prediction equations - Nonstructural systems - Predictor variables - Standard deviation - Vertical ground motion - Viscous damping ratio
+Classification code:481.1  Geology - 921.2  Calculus - 931.1  Mechanics
+Numerical data indexing:Percentage 5.00e+00%, Percentage 5.00e-01% to 3.00e+01%
+DOI:10.1193/100512EQS298M
+Funding details:  
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 23>
+
+Accession number:20143117995371
+Title:Seismic performance of vertical nonstructural components in the 22 February 2011 Christchurch earthquake
+Authors:Baird, Andrew (1); Tasligedik, Ali Sahin (1); Palermo, Alessandro (1); Pampanin, Stefano (1) 
+Author affiliation:(1) University of Canterbury, Civil and Natural Resources Engineering Department, Private Bag 4800, Christchurch 8140, New Zealand 
+Source title:Earthquake Spectra
+Abbreviated source title:Earthquake Spectra
+Volume:30
+Issue:1
+Issue date:February 2014
+Publication year:2014
+Pages:401-425
+Language:English
+ISSN:87552930
+CODEN:EASPEF
+Document type:Journal article (JA)
+Publisher:Earthquake Engineering Research Institute
+Abstract:A survey of 217 multistory buildings carried out following the 22 February 2011 Christchurch Earthquake further confirmed many of the known vulnerabilities vertical nonstructural components (VNSC) have to seismic movements. VNSC include facades, claddings, external infills, and internal partitions. In order to improve the seismic performance of such components, this paper will outline issues identified during damage reconnaissance following the Canterbury earthquake sequence. Displacement-based demands have been obtained using nonlinear response history analyses of a set of code-compliant, post-1990s reinforced concrete buildings when subjected to recorded ground motions of the major Canterbury earthquakes. The corresponding expected damage to VNSC based on informative guidance given in design codes and damage limits obtained experimentally are compared against the damage observed in post-earthquake assessments. &copy; 2014, Earthquake Engineering Research Institute.<br/>
+Number of references:37
+Main heading:Earthquakes
+Controlled terms:Concrete buildings - Damage detection - Reinforced concrete - Seismic waves
+Uncontrolled terms:2011 Christchurch earthquakes - Displacement-Based - Earthquake sequences - Internal partitions - Multistory building - Non-structural components - Nonlinear response history analysis - Seismic Performance
+Classification code:402  Buildings and Towers - 412  Concrete - 484  Seismology
+DOI:10.1193/031013EQS067M
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 24>
+
+Accession number:20134216849965
+Title:Floor accelerations in yielding special moment resisting frame structures
+Authors:Wieser, Joseph (1); Pekcan, Gokhan (1); Zaghi, Arash E. (2); Itani, Ahmad (1); Maragakis, Manos (1) 
+Author affiliation:(1) University of Nevada, Reno, MS 0258, Reno, NV 89557, United States; (2) University of Connecticut, 261 Glenbrook Rd, Storrs, CT 06269, United States 
+Source title:Earthquake Spectra
+Abbreviated source title:Earthquake Spectra
+Volume:29
+Issue:3
+Issue date:August 2013
+Publication year:2013
+Pages:987-1002
+Language:English
+ISSN:87552930
+CODEN:EASPEF
+Document type:Journal article (JA)
+Publisher:Earthquake Engineering Research Institute
+Abstract:Severe damage to acceleration sensitive nonstructural components in recent earthquakes has resulted in unprecedented losses. Recent research has been aimed at increasing the understanding of acceleration demands on nonstructural components in buildings. This investigation subjects a set of four special moment resisting frame (SMRF) building models to a suite of 21 far-field ground motions using the incremental dynamic analysis procedure. Full three-dimensional models including floor slabs are used to extract both the horizontal and vertical responses. Floor acceleration response spectra are generated to assess the acceleration demands on elastic nonstructural components. Changes to the current code provisions that include the influence of structural period are proposed. An alternative design approach that directly amplifies the ground acceleration spectrum to achieve the desired floor acceleration spectrum is presented. &copy; 2013, Earthquake Engineering Research Institute.<br/>
+Number of references:18
+Main heading:Acceleration
+Controlled terms:Structural frames - Floors
+Uncontrolled terms:Acceleration sensitive - Far-field ground motion - Full three-dimensional - Ground accelerations - Incremental dynamic analysis - Non-structural components - Special moment-resisting frame structures - Special moment-resisting frames
+Classification code:402  Buildings and Towers - 408.2  Structural Members and Shapes
+DOI:10.1193/1.4000167
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 25>
+
+Accession number:20133816758292
+Title:Full-scale shaking table test of a base-isolated medical facility subjected to vertical motions
+Authors:Furukawa, Sachi (1); Sato, Eiji (2); Shi, Yundong (3); Becker, Tracy (4); Nakashima, Masayoshi (4) 
+Author affiliation:(1) Graduate School of Engineering, Tohoku University, Japan; (2) E-Defense, National Research Institute for Earth Science and Disaster Prevention, Japan; (3) Graduate School of Engineering, Kyoto University, Japan; (4) Disaster Prevention Research Institute, Kyoto University, Japan 
+Corresponding author:Furukawa, S.(furukawa.s@archi.tohoku.ac.jp)
+Source title:Earthquake Engineering and Structural Dynamics
+Abbreviated source title:Earthqua. Eng. Struct. Dyn.
+Volume:42
+Issue:13
+Issue date:October 25, 2013
+Publication year:2013
+Pages:1931-1949
+Language:English
+ISSN:00988847
+E-ISSN:10969845
+CODEN:IJEEBG
+Document type:Journal article (JA)
+Publisher:John Wiley and Sons Ltd
+Abstract:SUMMARY: Base isolation is a well known technology that has been proven to reduce structural response to horizontal ground accelerations. However, vertical response still remains a topic of concern for base-isolated buildings, perhaps more so than in fixed-base buildings as isolation is often used when high performance is required. To investigate the effects of vertical response on building contents and nonstructural components, a series of full-scale shaking table tests were conducted at the E-Defense facility in Japan. A four-story base-isolated reinforced concrete building was outfitted as a medical facility with a wide variety of contents, and the behavior of the contents was observed. The rubber base isolation system was found to significantly amplify vertical accelerations in some cases. However, the damage caused by the vertical ground motions was not detrimental when peak vertical floor accelerations remained below 2g with three exceptions: (1) small items placed on shelves slid or toppled; (2) objects jumped when placed on nonrigid furniture, which tended to increase the response; and (3) equipment with vertical eccentricities rocked and jumped. In these tests, all equipment and nonstructural components remained functional after shaking. &copy; 2013 John Wiley & Sons, Ltd.<br/>
+Number of references:24
+Main heading:Reinforced concrete
+Controlled terms:Concrete buildings - Concrete construction
+Uncontrolled terms:Base isolation - Functionality - Medical facility - Shaking table tests - Vertical motions
+Classification code:402  Buildings and Towers - 412  Concrete
+Numerical data indexing:Mass 2.00e-03kg
+DOI:10.1002/eqe.2305
+Funding details:  Number: 22246073,23656341, Acronym: JSPS, Sponsor: Japan Society for the Promotion of Science;
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 26>
+
+Accession number:20152000858217
+Title:Use of simplified nonlinear response history analysis to inform equivalent lateral force procedure: A hybrid approach to base-isolated building design
+Authors:Wray, Gordon (1); Sinclair, Mark (2); Pedersen, Dallin (3); Maxfield, Brent (4); Moore, Erik (1) 
+Author affiliation:(1) Degenkolb Engineers, 1300 Clay Street, Oakland; CA; 94612, United States; (2) Sinclair Engineering, 530 Kansas Street 2, San Francisco; CA; 94107, United States; (3) 3BHB Consulting Engineers, P.C., 2766 S. Main Street, Salt Lake City; UT; 84115, United States; (4) Client Representative, 50 East North Temple, Salt Lake City; UT; 84150, United States 
+Corresponding author:Wray, Gordon(gwray@degenkolb.com)
+Source title:Structures Congress 2015 - Proceedings of the 2015 Structures Congress
+Abbreviated source title:Struct. Congr. - Proc. Struct. Congr.
+Part number:1of1
+Issue date:2015
+Publication year:2015
+Pages:2532-2544
+Language:English
+ISBN-13:9780784479117
+Document type:Conference article (CA)
+Conference name:Structures Congress 2015
+Conference date:April 23, 2015  -  April 25, 2015
+Conference location:Portland, OR, United states
+Conference code:111967
+Sponsor:The Structural Engineering Institute (SEI) of the American Society of Civil Engineers (ASCE)
+Publisher:American Society of Civil Engineers (ASCE), United States
+Abstract:Design of base-isolated structures using the Equivalent Lateral Force procedure of ASCE 7 is limited to regular buildings with moderate ground motions. When the limits of the procedure are exceeded, nonlinear response history analysis is usually implemented to capture the dynamic interaction of the superstructure and the isolation system using site-specific ground motions. This paper provides an example of a hybrid approach for designing base-isolated structures by conducting a detailed nonlinear response history analysis of a simplified isolator-building system to generate an envelope of story forces to be used in the design of the building using a fixed-base, static analysis approach. This allows the engineer to take advantage of the potential reductions in base shear and maximum displacement permitted by a dynamic analysis while preserving the simplicity of a static analysis for design. The resulting vertical force distribution from the simplified model is also compared to the new vertical force distribution for isolated structures included in ASCE 7-16. Results of nonlinear response history analyses using the simplified isolator-building model provides the maximum isolator design displacement, forces for the design of the superstructure lateral system, and anchorage of nonstructural components. The analysis also applies tri-directional acceleration input (as a peer review requirement) in order to capture the vertical demands on the isolation system and building components, and the potential increase in lateral forces and accelerations due to coupled vertical-horizontal response of the selected isolator type. The system behavior using vertical excitation is compared to that of horizontal excitation only and both are compared to the proposed code vertical force distribution.<br/>
+Number of references:5
+Main heading:Static analysis
+Controlled terms:Architectural design - Engineering geology - Earthquake engineering - Structural design - Nonlinear analysis
+Uncontrolled terms:Base isolated structure - Base-isolated building - Dynamic interaction - Maximum displacement - Non-structural components - Nonlinear response history analysis - Potential reduction - Vertical excitation
+Classification code:402  Buildings and Towers - 408.1  Structural Design, General - 484.3  Earthquake Resistance - 723.5  Computer Applications
+DOI:10.1061/9780784479117.219
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 27>
+
+Accession number:20123815442720
+Title:Aspects of isolation device behavior observed from full-scale testing of an isolated building at E-defense
+Authors:Ryan, Keri L. (1); Dao, Nhan D. (1); Sato, Eiji (2); Sasaki, Tomohiro (2); Okazaki, Taichiro (3) 
+Author affiliation:(1) Civil and Environmental Engineering, University of Nevada, Reno/MS 0258, Reno, NV 89519, United States; (2) National Research Institute for Earth Science and Disaster Prevention, 1501-21 Nishikameya, Mitsuta, Hyogo 673-0515, Japan; (3) Faculty and Graduate School of Engineering, Hokkaido University, Kita 13, Kita-ku, Sapporo, Hokkaido 060-8628, Japan 
+Corresponding author:Ryan, K.L.(keri.ryan@unr.edu)
+Source title:20th Analysis and Computation Specialty Conference - Proceedings of the Conference
+Abbreviated source title:Anal. Comput. Spec. Conf. - Proc. Conf.
+Issue title:20th Analysis and Computation Specialty Conference - Proceedings of the Conference
+Issue date:2012
+Publication year:2012
+Pages:25-36
+Language:English
+ISBN-13:9780784412374
+Document type:Conference article (CA)
+Conference name:20th Analysis and Computation Specialty Conference
+Conference date:March 29, 2012  -  March 31, 2012
+Conference location:Chicago, IL, United states
+Conference code:92563
+Sponsor:Struct. Eng. Inst. Am. Soc. Civ. Eng.
+Publisher:American Society of Civil Engineers (ASCE)
+Abstract:A 5-story steel moment frame building was tested at E-Defense in August of 2011 with three different support configurations: supported by a triple friction pendulum isolation system, supported by lead rubber bearings in combination with cross linear bearings, and in the fixed-base condition. Nonstructural components and contents were installed on the 4th and 5th floors. The isolated buildings were subjected to strong excitations with the goal to approach the displacement limit of the baseisolation devices. The triple friction pendulum system was subjected to a variety of large ground motions, but did not reach its displacement limit as the friction was observed to be larger than during initial bearing characterization. The lead-rubber isolators were subjected simultaneously to large displacements and some tension. Nonstructural component damage and content disruption due to strong vertical excitation was observed in both isolation systems and in the fixed-base configuration. &copy; 2012 ASCE.<br/>
+Number of references:5
+Main heading:Friction
+Controlled terms:Network security - Rubber - Earthquakes - Pendulums - Steel testing - Excited states - Tribology
+Uncontrolled terms:Friction pendulum system - Full-scale testing - Isolated buildings - Large displacements - Lead rubber bearing - Non-structural components - Steel moment frames - Vertical excitation
+Classification code:484  Seismology - 545.3  Steel - 723  Computer Software, Data Handling and Applications - 818.1  Natural Rubber - 931  Classical Physics; Quantum Theory; Relativity - 931.3  Atomic and Molecular Physics - 931.4  Quantum Theory; Quantum Mechanics
+DOI:10.1061/9780784412374.003
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 28>
+
+Accession number:20103213138157
+Title:Ground-motion difference between two moderate-size intraplate earthquakes in the United Kingdom
+Authors:Ottem&#246;ller, L. (1); Sargeant, S. (2) 
+Author affiliation:(1) Department of Earth Science, University of Bergen, Allegt. 41,5007 Bergen, Norway; (2) British Geological Survey, Murchison House, West Mains Road, Edinburgh, EH9 3LA, United Kingdom 
+Corresponding author:Ottem&#246;ller, L.(lars.ottemoller@geo.uib.no)
+Source title:Bulletin of the Seismological Society of America
+Abbreviated source title:Bull. Seismol. Soc. Am.
+Volume:100
+Issue:4
+Issue date:August 1 2010
+Publication year:2010
+Pages:1823-1829
+Language:English
+ISSN:00371106
+CODEN:BSSAAP
+Document type:Journal article (JA)
+Publisher:Seismological Society of America, 201 Plaza Professional Building, El Cerrito, CA 94530, United States
+Abstract:Two moderate-size earthquakes occurred in the United Kingdom, the first near Folkestone in 2007 with M<inf>w</inf> 4.0 and the second near Market Rasen in 2008 with M<inf>w</inf> 4.5. Both were strongly felt and caused some nonstructural damage. The earthquakes occurred at significantly different depths, the Folkestone earthquake at 5 km and the Market Rasen earthquake at 20 km. We determined the seismic moment and the stress drop of the two mainshocks, and two smaller earthquakes in the same locations, by modeling the source displacement spectra. We found stress drops of 30 &plusmn; 34 bar and 344 &plusmn; 136 bar for the Folkestone and Market Rasen mainshocks, respectively. This is a significant difference considering the earthquakes are only 275 km apart and both are of intraplate origin. We applied the stochastic groundmotion modeling technique and used the stress drop and seismic moment to compute vertical component peak ground acceleration. The modeled ground motions are consistent with the observations. We also computed vertical peak ground acceleration for a hypothetical M<inf>w</inf> 6.0 high stress-drop (200 bar) earthquake and found that it would be 4:6 m/sec<sup>2</sup> at 20 km hypocentral distance.
+Number of references:28
+DOI:10.1785/0120090152
+Funding details:  Number: bgs05003, Acronym: NERC, Sponsor: Natural Environment Research Council;
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+
+<RECORD 29>
+
+Accession number:2005118998706
+Title:Study of the effect of near-source vertical ground motion on seismic design of precast concrete cladding panels
+Authors:Memari, Ali M. (1); Maneetes, Hathairat (1); Bozorgnia, Yousef (2) 
+Author affiliation:(1) Dept. of Architectural Engineering, Pennsylvania State Univ., University Park, PA 16802-1417; (2) Pac. Earthquake Eng. Research Center, Univ. of California, Berkeley, CA 
+Corresponding author:Memari, A.M.(amm7@psu.edu)
+Source title:Journal of Architectural Engineering
+Abbreviated source title:J Archit Eng
+Volume:10
+Issue:4
+Issue date:December 2004
+Publication year:2004
+Pages:167-184
+Language:English
+ISSN:10760431
+CODEN:JAEIED
+Document type:Journal article (JA)
+Publisher:American Society of Civil Engineers
+Abstract:This paper is an attempt to determine the effect of vertical ground motion on design of precast concrete cladding panels in seismic regions, particularly in near-source areas. A spandrel-type precast concrete cladding panel is chosen for detailed study and assumed attached to a building in San Francisco. The seismic provisions of International Building Code 2000 and Uniform Building Code 1997 are used to determine the design forces on the cladding panel, which was originally designed as an example in a PCI publication. The provisions of the two codes are compared in light of their requirements related to vertical ground motion consideration and near-source effects. Results of recent research on the relation between vertical and horizontal ground acceleration components as a function of source-to-site distance are also used to illustrate an example of incorporating vertical spectral acceleration effects directly in load combinations. Finally, finite-element modeling and frequency analysis results of the spandrel and floor-to-floor types of cladding panel are discussed. This study shows that the effects of vertical ground motion will cause an increase in the design forces for connections of heavy cladding panels, especially in near-source regions, with the magnitude of the increase dependent on the source-to-site distance. &copy; ASCE.
+Number of references:16
+Main heading:Precast concrete
+Controlled terms:Building codes - Cladding (coating) - Concretes - Finite element method - Seismology - Structural loads - Structural panels
+Uncontrolled terms:Ground motion - Load resistance - Nonstructural elements - Seismic design
+Classification code:921.6  Numerical Methods - 535.1  Metal Rolling - 484.1  Earthquake Measurements and Analysis - 412  Concrete - 408.2  Structural Members and Shapes - 408.1  Structural Design, General - 402  Buildings and Towers
+Treatment:Theoretical (THR)
+DOI:10.1061/(ASCE)1076-0431(2004)10:4(167)
+
+Database:Compendex
+Compilation and indexing terms, Copyright 2023 Elsevier Inc.
+

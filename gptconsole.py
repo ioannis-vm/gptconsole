@@ -1,10 +1,37 @@
 import os
+import re
 import readline
 import json
 import datetime
 import argparse
 import sys
+import hashlib
+from time import sleep
+import pickle
+from collections import namedtuple
+from tqdm import tqdm
+import pandas as pd
 import openai
+
+
+
+def generate_hash(text, algorithm='sha256'):
+    """
+    Generate a hash for a given piece of text using the specified
+    algorithm.
+    
+    """
+    # Encode the text to a bytes object
+    text_bytes = text.encode('utf-8')
+    
+    # Create a new hash object using the specified algorithm
+    hash_object = hashlib.new(algorithm)
+    
+    # Update the hash object with the bytes to be hashed
+    hash_object.update(text_bytes)
+    
+    # Return the hexadecimal representation of the hash
+    return hash_object.hexdigest()
 
 
 class History:
@@ -34,11 +61,19 @@ class History:
             else:
                 print_response(item['content'])
 
+
 class OpenAIInterface:
-    def __init__(self, model='gpt-3.5-turbo'):
+
+    # https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo
+    # https://openai.com/pricing
+    # https://platform.openai.com/usage
+
+    def __init__(self, model='gpt-4-1106-preview'):
         self.model = model
         self.history = History()
         self.openai_api_key = None
+        self.system_message = 'You are a helpful assistant.'
+        self.max_tokens = None
 
     def set_api_key(self, api_key):
         self.openai_api_key = api_key
@@ -57,28 +92,92 @@ class OpenAIInterface:
         )
         return query
 
+    def set_system_message(self, system_message):
+        self.system_message = system_message
+
+    def set_system_message__dont_make_stuff_up(self):
+        self.system_message = (
+            "Your goal is to respond to prompts. You value clarity "
+            "and factual correctness. If a question lacks context, "
+            "you make sure to ask all necessary follow-up questions "
+            "to get the information needed for a complete and precise "
+            "answer, without justifying why you asked them, but only "
+            "if you really need the information to give an answer. "
+            "If you do not know the answer, you acknowlede that. "
+            "You never, ever, make things up.")
+
+    def set_model(self, model_string):
+        self.model = model_string
+
+    def set_model__gpt4(self):
+        self.model = 'gpt-4-1106-preview'
+
+    def set_model__gpt3p5(self):
+        self.model = 'gpt-3.5-turbo-1106'
+    
+    def set_max_tokens(self, max_tokens):
+        self.max_tokens = max_tokens
+    
     def get_response(self, query):
         query = self.replace_common_instructions(query)
 
         try:
-            self.history.add_message('user', query)
+            self.history.add_message("user", query)
             response = openai.ChatCompletion.create(
                 model=self.model,
-                messages=[{'role': 'system', 'content': 'Your goal is to respond to prompts. You value clarity and factual correctness. If a question lacks context, you make sure to ask all necessary follow-up questions to get the information needed for a complete and precise answer, without justifying why you asked them. If you do not know the answer, you acknowlede that. You never, ever, make things up.'}]
+                messages=[{'role': 'system', 'content': self.system_message}]
                 + self.history.contents,
+                max_tokens=self.max_tokens
                 )
-            # response = openai.ChatCompletion.create(
-            #     model=self.model,
-            #     messages=[{'role': 'system', 'content': 'You are a helpful assistant.'}]
-            #     + self.history.contents,
-            #     )
-            self.history.add_message('assistant', response.choices[0].message.content)
+
+            self.history.add_message("assistant", response.choices[0].message.content)
             return response.choices[0].message.content
-        except(openai.error.InvalidRequestError) as err:
-            print('Oops! There was a problem with the request:')
+        except openai.error.InvalidRequestError as err:
+            print("Oops! There was a problem with the request:")
             print(err)
-            print('(Note: History left unchanged.)')
             return None
+
+
+class Batch:
+
+    def __init__(self, api_key):
+        self.prompts = None
+        self.api_interface = OpenAIInterface()
+        self.api_interface.set_api_key(api_key)
+        
+    def get_responses(self, prompt_list, output_directory, sleep_seconds=10):
+        """
+          Get responses for a list of prompts.
+        """
+        if not os.path.isdir(output_directory):
+            if os.path.exists(output_directory):
+                raise ValueError(
+                    'Path exists and is not a '
+                    f'directory: {output_directory}')
+            os.makedirs(output_directory)
+        pickle_path = os.path.join(output_directory, 'results.pickle')
+        if os.path.exists(pickle_path):
+            # if previous results already exist, load them
+            with open(os.path.join(output_directory, 'results.pickle'), 'rb') as f:
+                results = pickle.load(f)
+        else:
+            # initialize results
+            results = {}
+        for prompt in tqdm(prompt_list):
+            hash = generate_hash(prompt)
+            if hash in results:
+                continue
+            response = self.api_interface.get_response(prompt)
+            results[hash] = (prompt, response)
+            with open(os.path.join(output_directory, 'results.pickle'), 'wb') as f:
+                pickle.dump(results, f)
+            sleep(sleep_seconds)
+        res = pd.DataFrame({
+            'input': [x[0] for x in results.values()],
+            'response': [x[1] for x in results.values()]
+            }, index=results.keys())
+        return res
+
 
 class CommandLineInterface:
 
