@@ -3,9 +3,7 @@
 ```
 conda create -n gptconsole_env -c conda-forge python=3.12 -y
 conda activate gptconsole_env
-
 python -m pip install gptconsole
-
 ```
 
 Make a file in your home directory called `.gptconsolerc`
@@ -44,6 +42,8 @@ The prompt changes to
 
 Enter your prompt and hit enter. You can then enter a follow-up prompt.
 You can also enter commands. You can see a list of available commands by typing `\help`.
+
+To access it directly without having to activate the environment, you can create an alias. The way to do this depends on what kind of shell your terminal is running.
 
 ## Use `gptconsole` as a python module
 
