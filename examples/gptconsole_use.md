@@ -59,7 +59,7 @@ Consider the following search as an example:
 https://www.engineeringvillage.com/search/quick.url?SEARCHID=8c879b522c9d4843a879d1ca924cc5eb&COUNT=1&usageOrigin=header&usageZone=evlogo
 ```
 Display: 100 results per page, to show all results.
-Select all records by cklicking on the checkbox at the top.
+Select all records by clicking on the checkbox at the top.
 For searches that have thousands of results, clicking the top checkbox on the last page will include all of them.
 Click the download icon and select Location: My PC, Format: Text(ASCII), Output: Detailed record. File name: records, and save.
 Replace the path in the example script.
@@ -72,7 +72,7 @@ For the above search, I already have the file there.
 
 You would want to do this to modify the source code and have the change reflected to your scripts and the command line interface, and to be able to contribute changes.
 
-Set up an enviornment.
+Set up an environment.
 ```
 conda create -n gptconsole_env_dev -c conda-forge python=3.12 -y
 conda activate gptconsole_env_dev
